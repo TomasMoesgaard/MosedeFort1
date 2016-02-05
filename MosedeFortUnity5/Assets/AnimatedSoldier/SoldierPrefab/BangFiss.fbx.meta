@@ -1,0 +1,2099 @@
+fileFormatVersion: 2
+guid: 87970ecb7814a1e4db69181813da8756
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Actual_Solider
+    100002: //RootNode
+    100004: elbowLeft
+    100006: elbowRight
+    100008: footLeft
+    100010: footRight
+    100012: group
+    100014: group 1
+    100016: group1
+    100018: group10
+    100020: group11
+    100022: group12
+    100024: group13
+    100026: group14
+    100028: group15
+    100030: group16
+    100032: group17
+    100034: group18
+    100036: group19
+    100038: group2
+    100040: group20
+    100042: group21
+    100044: group22
+    100046: group23
+    100048: group3
+    100050: group4
+    100052: group5
+    100054: group6
+    100056: group7
+    100058: group8
+    100060: group9
+    100062: handRight
+    100064: head
+    100066: hendLeft
+    100068: hips
+    100070: lowerLegLeft
+    100072: lowerLegRight
+    100074: mentalrayIbl1
+    100076: neck
+    100078: pasted__Actual_Solider
+    100080: pasted__Actual_Solider 1
+    100082: pasted__Actual_Solider 2
+    100084: pasted__Actual_Solider 3
+    100086: pasted__body
+    100088: pasted__boots
+    100090: pasted__group
+    100092: pasted__group 1
+    100094: pasted__group 2
+    100096: pasted__group 3
+    100098: pasted__group 4
+    100100: pasted__group1
+    100102: pasted__group1 1
+    100104: pasted__group1 2
+    100106: pasted__group10
+    100108: pasted__group10 1
+    100110: pasted__group12
+    100112: pasted__group13
+    100114: pasted__group14
+    100116: pasted__group15
+    100118: pasted__group15 1
+    100120: pasted__group17
+    100122: pasted__group18
+    100124: pasted__group3
+    100126: pasted__group4
+    100128: pasted__group7
+    100130: pasted__group8
+    100132: pasted__group9
+    100134: pasted__hands
+    100136: pasted__head
+    100138: pasted__pasted__Actual_Solider
+    100140: pasted__pasted__Actual_Solider 1
+    100142: pasted__pasted__Actual_Solider 2
+    100144: pasted__pasted__group
+    100146: pasted__pasted__group 1
+    100148: pasted__pasted__group 2
+    100150: pasted__pasted__group 3
+    100152: pasted__pasted__group 4
+    100154: pasted__pasted__group 5
+    100156: pasted__pasted__group1
+    100158: pasted__pasted__group1 1
+    100160: pasted__pasted__group10
+    100162: pasted__pasted__group12
+    100164: pasted__pasted__group13
+    100166: pasted__pasted__group14
+    100168: pasted__pasted__group14 1
+    100170: pasted__pasted__group15
+    100172: pasted__pasted__group17
+    100174: pasted__pasted__group3
+    100176: pasted__pasted__group7
+    100178: pasted__pasted__group8
+    100180: pasted__pasted__group9
+    100182: pasted__pasted__group9 1
+    100184: pasted__pasted__hands
+    100186: pasted__pasted__pasted__Actual_Solider
+    100188: pasted__pasted__pasted__Actual_Solider 1
+    100190: pasted__pasted__pasted__Actual_Solider 2
+    100192: pasted__pasted__pasted__Actual_Solider 3
+    100194: pasted__pasted__pasted__Actual_Solider 4
+    100196: pasted__pasted__pasted__group
+    100198: pasted__pasted__pasted__group 1
+    100200: pasted__pasted__pasted__group 2
+    100202: pasted__pasted__pasted__group 3
+    100204: pasted__pasted__pasted__group 4
+    100206: pasted__pasted__pasted__group1
+    100208: pasted__pasted__pasted__group1 1
+    100210: pasted__pasted__pasted__group10
+    100212: pasted__pasted__pasted__group12
+    100214: pasted__pasted__pasted__group13
+    100216: pasted__pasted__pasted__group13 1
+    100218: pasted__pasted__pasted__group14
+    100220: pasted__pasted__pasted__group15
+    100222: pasted__pasted__pasted__group7
+    100224: pasted__pasted__pasted__group8
+    100226: pasted__pasted__pasted__group8 1
+    100228: pasted__pasted__pasted__group9
+    100230: pasted__pasted__pasted__pasted__Actual_Solider
+    100232: pasted__pasted__pasted__pasted__Actual_Solider 1
+    100234: pasted__pasted__pasted__pasted__Actual_Solider 2
+    100236: pasted__pasted__pasted__pasted__Actual_Solider 3
+    100238: pasted__pasted__pasted__pasted__group
+    100240: pasted__pasted__pasted__pasted__group 1
+    100242: pasted__pasted__pasted__pasted__group 2
+    100244: pasted__pasted__pasted__pasted__group 3
+    100246: pasted__pasted__pasted__pasted__group1
+    100248: pasted__pasted__pasted__pasted__group1 1
+    100250: pasted__pasted__pasted__pasted__group10
+    100252: pasted__pasted__pasted__pasted__group12
+    100254: pasted__pasted__pasted__pasted__group12 1
+    100256: pasted__pasted__pasted__pasted__group13
+    100258: pasted__pasted__pasted__pasted__group14
+    100260: pasted__pasted__pasted__pasted__group7
+    100262: pasted__pasted__pasted__pasted__group7 1
+    100264: pasted__pasted__pasted__pasted__group8
+    100266: pasted__pasted__pasted__pasted__group9
+    100268: pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    100270: pasted__pasted__pasted__pasted__pasted__Actual_Solider 1
+    100272: pasted__pasted__pasted__pasted__pasted__Actual_Solider 2
+    100274: pasted__pasted__pasted__pasted__pasted__Actual_Solider 3
+    100276: pasted__pasted__pasted__pasted__pasted__group
+    100278: pasted__pasted__pasted__pasted__pasted__group 1
+    100280: pasted__pasted__pasted__pasted__pasted__group 2
+    100282: pasted__pasted__pasted__pasted__pasted__group 3
+    100284: pasted__pasted__pasted__pasted__pasted__group1
+    100286: pasted__pasted__pasted__pasted__pasted__group1 1
+    100288: pasted__pasted__pasted__pasted__pasted__group10
+    100290: pasted__pasted__pasted__pasted__pasted__group10 1
+    100292: pasted__pasted__pasted__pasted__pasted__group12
+    100294: pasted__pasted__pasted__pasted__pasted__group13
+    100296: pasted__pasted__pasted__pasted__pasted__group7
+    100298: pasted__pasted__pasted__pasted__pasted__group8
+    100300: pasted__pasted__pasted__pasted__pasted__group9
+    100302: pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    100304: pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider 1
+    100306: pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider 2
+    100308: pasted__pasted__pasted__pasted__pasted__pasted__group
+    100310: pasted__pasted__pasted__pasted__pasted__pasted__group 1
+    100312: pasted__pasted__pasted__pasted__pasted__pasted__group 2
+    100314: pasted__pasted__pasted__pasted__pasted__pasted__group1
+    100316: pasted__pasted__pasted__pasted__pasted__pasted__group10
+    100318: pasted__pasted__pasted__pasted__pasted__pasted__group12
+    100320: pasted__pasted__pasted__pasted__pasted__pasted__group7
+    100322: pasted__pasted__pasted__pasted__pasted__pasted__group8
+    100324: pasted__pasted__pasted__pasted__pasted__pasted__group9
+    100326: pasted__pasted__pasted__pasted__pasted__pasted__group9 1
+    100328: pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    100330: pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      1
+    100332: pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      2
+    100334: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+    100336: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group 1
+    100338: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+    100340: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group10
+    100342: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+    100344: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group8
+    100346: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group8 1
+    100348: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group9
+    100350: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    100352: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      1
+    100354: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+    100356: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      1
+    100358: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+    100360: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+    100362: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+      1
+    100364: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group8
+    100366: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group9
+    100368: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    100370: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      1
+    100372: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      2
+    100374: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+    100376: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      1
+    100378: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      2
+    100380: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+    100382: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+      1
+    100384: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+    100386: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group8
+    100388: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    100390: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      1
+    100392: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+    100394: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      1
+    100396: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      2
+    100398: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+    100400: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+    100402: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    100404: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      1
+    100406: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      2
+    100408: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+    100410: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      1
+    100412: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+    100414: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    100416: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+    100418: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    100420: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    100422: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    100424: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    100426: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      1
+    100428: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    100430: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    100432: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    100434: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    100436: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      1
+    100438: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    100440: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    100442: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    100444: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1 1
+    100446: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    100448: pasted__pasted__pasted__pSphere2
+    100450: pasted__pCube3
+    100452: pasted__pCylinder1
+    100454: pasted__pCylinder2
+    100456: pasted__pSphere2
+    100458: pCube1
+    100460: pCube2
+    100462: pCube3
+    100464: pCylinder1
+    100466: polySurface2
+    100468: polySurface3
+    100470: polySurface4
+    100472: polySurface6
+    100474: pSphere1
+    100476: pSphere2
+    100478: shoulderLeft
+    100480: shoulderRight
+    100482: spine
+    100484: spine_2
+    100486: spine_3
+    100488: toeLeft
+    100490: toeRight
+    100492: transform1
+    100494: transform2
+    100496: transform3
+    100498: upperLegLeft
+    100500: upperLegRight
+    100502: wristLeft
+    100504: wristRight
+    400000: Actual_Solider
+    400002: //RootNode
+    400004: elbowLeft
+    400006: elbowRight
+    400008: footLeft
+    400010: footRight
+    400012: group
+    400014: group 1
+    400016: group1
+    400018: group10
+    400020: group11
+    400022: group12
+    400024: group13
+    400026: group14
+    400028: group15
+    400030: group16
+    400032: group17
+    400034: group18
+    400036: group19
+    400038: group2
+    400040: group20
+    400042: group21
+    400044: group22
+    400046: group23
+    400048: group3
+    400050: group4
+    400052: group5
+    400054: group6
+    400056: group7
+    400058: group8
+    400060: group9
+    400062: handRight
+    400064: head
+    400066: hendLeft
+    400068: hips
+    400070: lowerLegLeft
+    400072: lowerLegRight
+    400074: mentalrayIbl1
+    400076: neck
+    400078: pasted__Actual_Solider
+    400080: pasted__Actual_Solider 1
+    400082: pasted__Actual_Solider 2
+    400084: pasted__Actual_Solider 3
+    400086: pasted__body
+    400088: pasted__boots
+    400090: pasted__group
+    400092: pasted__group 1
+    400094: pasted__group 2
+    400096: pasted__group 3
+    400098: pasted__group 4
+    400100: pasted__group1
+    400102: pasted__group1 1
+    400104: pasted__group1 2
+    400106: pasted__group10
+    400108: pasted__group10 1
+    400110: pasted__group12
+    400112: pasted__group13
+    400114: pasted__group14
+    400116: pasted__group15
+    400118: pasted__group15 1
+    400120: pasted__group17
+    400122: pasted__group18
+    400124: pasted__group3
+    400126: pasted__group4
+    400128: pasted__group7
+    400130: pasted__group8
+    400132: pasted__group9
+    400134: pasted__hands
+    400136: pasted__head
+    400138: pasted__pasted__Actual_Solider
+    400140: pasted__pasted__Actual_Solider 1
+    400142: pasted__pasted__Actual_Solider 2
+    400144: pasted__pasted__group
+    400146: pasted__pasted__group 1
+    400148: pasted__pasted__group 2
+    400150: pasted__pasted__group 3
+    400152: pasted__pasted__group 4
+    400154: pasted__pasted__group 5
+    400156: pasted__pasted__group1
+    400158: pasted__pasted__group1 1
+    400160: pasted__pasted__group10
+    400162: pasted__pasted__group12
+    400164: pasted__pasted__group13
+    400166: pasted__pasted__group14
+    400168: pasted__pasted__group14 1
+    400170: pasted__pasted__group15
+    400172: pasted__pasted__group17
+    400174: pasted__pasted__group3
+    400176: pasted__pasted__group7
+    400178: pasted__pasted__group8
+    400180: pasted__pasted__group9
+    400182: pasted__pasted__group9 1
+    400184: pasted__pasted__hands
+    400186: pasted__pasted__pasted__Actual_Solider
+    400188: pasted__pasted__pasted__Actual_Solider 1
+    400190: pasted__pasted__pasted__Actual_Solider 2
+    400192: pasted__pasted__pasted__Actual_Solider 3
+    400194: pasted__pasted__pasted__Actual_Solider 4
+    400196: pasted__pasted__pasted__group
+    400198: pasted__pasted__pasted__group 1
+    400200: pasted__pasted__pasted__group 2
+    400202: pasted__pasted__pasted__group 3
+    400204: pasted__pasted__pasted__group 4
+    400206: pasted__pasted__pasted__group1
+    400208: pasted__pasted__pasted__group1 1
+    400210: pasted__pasted__pasted__group10
+    400212: pasted__pasted__pasted__group12
+    400214: pasted__pasted__pasted__group13
+    400216: pasted__pasted__pasted__group13 1
+    400218: pasted__pasted__pasted__group14
+    400220: pasted__pasted__pasted__group15
+    400222: pasted__pasted__pasted__group7
+    400224: pasted__pasted__pasted__group8
+    400226: pasted__pasted__pasted__group8 1
+    400228: pasted__pasted__pasted__group9
+    400230: pasted__pasted__pasted__pasted__Actual_Solider
+    400232: pasted__pasted__pasted__pasted__Actual_Solider 1
+    400234: pasted__pasted__pasted__pasted__Actual_Solider 2
+    400236: pasted__pasted__pasted__pasted__Actual_Solider 3
+    400238: pasted__pasted__pasted__pasted__group
+    400240: pasted__pasted__pasted__pasted__group 1
+    400242: pasted__pasted__pasted__pasted__group 2
+    400244: pasted__pasted__pasted__pasted__group 3
+    400246: pasted__pasted__pasted__pasted__group1
+    400248: pasted__pasted__pasted__pasted__group1 1
+    400250: pasted__pasted__pasted__pasted__group10
+    400252: pasted__pasted__pasted__pasted__group12
+    400254: pasted__pasted__pasted__pasted__group12 1
+    400256: pasted__pasted__pasted__pasted__group13
+    400258: pasted__pasted__pasted__pasted__group14
+    400260: pasted__pasted__pasted__pasted__group7
+    400262: pasted__pasted__pasted__pasted__group7 1
+    400264: pasted__pasted__pasted__pasted__group8
+    400266: pasted__pasted__pasted__pasted__group9
+    400268: pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    400270: pasted__pasted__pasted__pasted__pasted__Actual_Solider 1
+    400272: pasted__pasted__pasted__pasted__pasted__Actual_Solider 2
+    400274: pasted__pasted__pasted__pasted__pasted__Actual_Solider 3
+    400276: pasted__pasted__pasted__pasted__pasted__group
+    400278: pasted__pasted__pasted__pasted__pasted__group 1
+    400280: pasted__pasted__pasted__pasted__pasted__group 2
+    400282: pasted__pasted__pasted__pasted__pasted__group 3
+    400284: pasted__pasted__pasted__pasted__pasted__group1
+    400286: pasted__pasted__pasted__pasted__pasted__group1 1
+    400288: pasted__pasted__pasted__pasted__pasted__group10
+    400290: pasted__pasted__pasted__pasted__pasted__group10 1
+    400292: pasted__pasted__pasted__pasted__pasted__group12
+    400294: pasted__pasted__pasted__pasted__pasted__group13
+    400296: pasted__pasted__pasted__pasted__pasted__group7
+    400298: pasted__pasted__pasted__pasted__pasted__group8
+    400300: pasted__pasted__pasted__pasted__pasted__group9
+    400302: pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    400304: pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider 1
+    400306: pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider 2
+    400308: pasted__pasted__pasted__pasted__pasted__pasted__group
+    400310: pasted__pasted__pasted__pasted__pasted__pasted__group 1
+    400312: pasted__pasted__pasted__pasted__pasted__pasted__group 2
+    400314: pasted__pasted__pasted__pasted__pasted__pasted__group1
+    400316: pasted__pasted__pasted__pasted__pasted__pasted__group10
+    400318: pasted__pasted__pasted__pasted__pasted__pasted__group12
+    400320: pasted__pasted__pasted__pasted__pasted__pasted__group7
+    400322: pasted__pasted__pasted__pasted__pasted__pasted__group8
+    400324: pasted__pasted__pasted__pasted__pasted__pasted__group9
+    400326: pasted__pasted__pasted__pasted__pasted__pasted__group9 1
+    400328: pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    400330: pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      1
+    400332: pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      2
+    400334: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+    400336: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group 1
+    400338: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+    400340: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group10
+    400342: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+    400344: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group8
+    400346: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group8 1
+    400348: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group9
+    400350: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    400352: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      1
+    400354: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+    400356: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      1
+    400358: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+    400360: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+    400362: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+      1
+    400364: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group8
+    400366: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group9
+    400368: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    400370: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      1
+    400372: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      2
+    400374: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+    400376: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      1
+    400378: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      2
+    400380: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+    400382: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+      1
+    400384: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+    400386: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group8
+    400388: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    400390: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      1
+    400392: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+    400394: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      1
+    400396: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      2
+    400398: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+    400400: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+    400402: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    400404: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      1
+    400406: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      2
+    400408: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+    400410: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      1
+    400412: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+    400414: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    400416: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+    400418: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+    400420: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    400422: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    400424: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    400426: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      1
+    400428: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    400430: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    400432: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    400434: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    400436: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      1
+    400438: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    400440: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    400442: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    400444: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1 1
+    400446: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    400448: pasted__pasted__pasted__pSphere2
+    400450: pasted__pCube3
+    400452: pasted__pCylinder1
+    400454: pasted__pCylinder2
+    400456: pasted__pSphere2
+    400458: pCube1
+    400460: pCube2
+    400462: pCube3
+    400464: pCylinder1
+    400466: polySurface2
+    400468: polySurface3
+    400470: polySurface4
+    400472: polySurface6
+    400474: pSphere1
+    400476: pSphere2
+    400478: shoulderLeft
+    400480: shoulderRight
+    400482: spine
+    400484: spine_2
+    400486: spine_3
+    400488: toeLeft
+    400490: toeRight
+    400492: transform1
+    400494: transform2
+    400496: transform3
+    400498: upperLegLeft
+    400500: upperLegRight
+    400502: wristLeft
+    400504: wristRight
+    4300000: polySurface3
+    4300002: pCube2
+    4300004: pCube1
+    4300006: pasted__pasted__pasted__pSphere2
+    4300008: pasted__pCylinder1
+    4300010: pSphere1
+    4300012: pasted__pCylinder2
+    4300014: pasted__hands
+    4300016: pasted__pasted__hands
+    4300018: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300020: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300022: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300024: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300026: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300028: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300030: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300032: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300034: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300036: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300038: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300040: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300042: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300044: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300046: pCube3
+    4300048: pasted__pCube3
+    4300050: pCylinder1
+    4300052: pSphere2
+    4300054: pasted__pSphere2
+    4300056: pasted__head
+    4300058: polySurface6
+    4300060: pasted__boots
+    9500000: //RootNode
+    13700000: pasted__hands
+    13700002: pasted__pasted__hands
+    13700004: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700006: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700008: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700010: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      1
+    13700012: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700014: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700016: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700018: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700020: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      1
+    13700022: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700024: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700026: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700028: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1 1
+    13700030: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700032: pasted__pasted__pasted__pSphere2
+    13700034: pasted__pCube3
+    13700036: pasted__pCylinder1
+    13700038: pasted__pCylinder2
+    13700040: pasted__pSphere2
+    13700042: pCube1
+    13700044: pCube2
+    13700046: pCube3
+    13700048: pCylinder1
+    13700050: polySurface3
+    13700052: pSphere1
+    13700054: pSphere2
+    13700056: pasted__boots
+    13700058: pasted__head
+    13700060: polySurface6
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 1
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upperLegLeft
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: upperLegRight
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lowerLegLeft
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lowerLegRight
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: footLeft
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: footRight
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine_3
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: spine_2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shoulderLeft
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: shoulderRight
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: elbowLeft
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: elbowRight
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: wristLeft
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: wristRight
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: toeLeft
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: toeRight
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: BangFiss(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Actual_Solider
+      position: {x: 0, y: -.208696693, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: group 1
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: group1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__group 4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__Actual_Solider 2
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: -.0582993478, y: 27.8503895, z: 3.28856516}
+      rotation: {x: -.807905734, y: .0298557617, z: -.0254981946, w: .588002384}
+      scale: {x: .230271518, y: .146185532, z: .217113063}
+      transformModified: 1
+    - name: pasted__Actual_Solider 3
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface2
+      position: {x: -.0626177788, y: 15.4789639, z: 2.72043228}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface3
+      position: {x: .0626177788, y: -15.6095695, z: -2.72043228}
+      rotation: {x: -.030129306, y: 0, z: -0, w: .999546051}
+      scale: {x: .711328268, y: 1, z: .839023948}
+      transformModified: 1
+    - name: polySurface4
+      position: {x: .0626177788, y: -15.4789639, z: -2.72043228}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCube1
+      position: {x: 3.20169878, y: 28.5520191, z: 1.27017689}
+      rotation: {x: -.0527558848, y: -.00429788558, z: -.0831749737, w: .995128274}
+      scale: {x: .473586828, y: .324458897, z: .437402368}
+      transformModified: 1
+    - name: pCube2
+      position: {x: -3.5198431, y: 28.5520191, z: 1.43954039}
+      rotation: {x: -.0412098356, y: -.0129043898, z: .047704272, w: .997927606}
+      scale: {x: .473586828, y: .324458897, z: -.437402368}
+      transformModified: 1
+    - name: transform3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform2
+      position: {x: .0626177788, y: -15.4789639, z: -2.72043228}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__hands
+      position: {x: .490071714, y: 1.0401535, z: -.0803214386}
+      rotation: {x: -.0092960624, y: .999346733, z: .000760511146, w: .0349164866}
+      scale: {x: 1, y: 1, z: -1}
+      transformModified: 1
+    - name: pasted__head
+      position: {x: .0942951441, y: 1.0658141e-14, z: -.415856957}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__hands
+      position: {x: 8.67361738e-19, y: .080992043, z: 0}
+      rotation: {x: .000144872392, y: .0311637279, z: .00932599418, w: .99947077}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pSphere2
+      position: {x: .0913870409, y: 33.66362, z: 3.32201052}
+      rotation: {x: -.691771984, y: .0209848564, z: .00349838752, w: .721802533}
+      scale: {x: .250133783, y: .21548447, z: .285001278}
+      transformModified: 1
+    - name: pasted__pCylinder1
+      position: {x: .0734809265, y: 33.2137985, z: 1.62188005}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .610628188, y: .0219729058, z: .730366766}
+      transformModified: 1
+    - name: pasted__pCylinder2
+      position: {x: .0734809265, y: 33.2137718, z: 1.62188005}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .579938233, y: .531933308, z: .693658769}
+      transformModified: 1
+    - name: pSphere1
+      position: {x: .103256896, y: 32.568779, z: 2.95930719}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .531933308, y: 1.45046366e-12, z: .531933308}
+      transformModified: 1
+    - name: group
+      position: {x: -.0130768111, y: 5.72729969, z: .923600137}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__Actual_Solider
+      position: {x: .0130768111, y: -6.12192249, z: -.80172348}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__group 1
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__group1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__Actual_Solider 2
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: group2
+      position: {x: -24.6386757, y: 82.1688766, z: 2.33146835e-15}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: group3
+      position: {x: -.0130768111, y: 5.55159235, z: .999662638}
+      rotation: {x: -.00112823304, y: -.143375784, z: .00188433565, w: .989665926}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: pasted__group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__Actual_Solider
+      position: {x: .0130768111, y: -6.12192249, z: -.80172348}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__group 1
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__group1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__Actual_Solider 2
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: group4
+      position: {x: -.0130768111, y: 5.38659859, z: 1.07168615}
+      rotation: {x: .0552332588, y: -0, z: 0, w: .998473465}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: pasted__group3
+      position: {x: -2.77555756e-17, y: 0, z: 0}
+      rotation: {x: -.00112823304, y: -.143375784, z: .00188433565, w: .989665926}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__Actual_Solider
+      position: {x: .0130768111, y: -6.12192249, z: -.80172348}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group 1
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__Actual_Solider 2
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: group5
+      position: {x: -.0130768111, y: 5.20450544, z: 1.07168615}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__group4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: .0552332588, y: -0, z: -0, w: .998473465}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group3
+      position: {x: -2.77555756e-17, y: 0, z: 0}
+      rotation: {x: -.00112823304, y: -.143375784, z: .00188433565, w: .989665926}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__Actual_Solider 1
+      position: {x: .0130768111, y: -6.12192249, z: -.80172348}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group 1
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group1 1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__group 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider 2
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: group6
+      position: {x: -.0130768148, y: 5.92388868, z: .797939956}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__Actual_Solider 1
+      position: {x: .0130768148, y: -6.24697447, z: -.737640738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__group 2
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__group1 1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group 4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__Actual_Solider 3
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: -.0582993478, y: 27.6198978, z: 3.41514134}
+      rotation: {x: -.807905734, y: .0298557617, z: -.0254981946, w: .588002384}
+      scale: {x: .230271518, y: .146185532, z: .217113063}
+      transformModified: 1
+    - name: group7
+      position: {x: -.0130768148, y: 5.81653881, z: .855578601}
+      rotation: {x: -.105737776, y: 0, z: -0, w: .994394064}
+      scale: {x: 1, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: pasted__Actual_Solider 2
+      position: {x: .0130768148, y: -6.24697447, z: -.737640738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__group 3
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__group1 2
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group 5
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__Actual_Solider 4
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1 1
+      position: {x: -.0582993478, y: 27.3396759, z: 3.45012021}
+      rotation: {x: -.807905734, y: .0298557617, z: -.0254981946, w: .588002384}
+      scale: {x: .230271518, y: .146185532, z: .217113063}
+      transformModified: 1
+    - name: group8
+      position: {x: -.0130768148, y: 5.70418167, z: .902717829}
+      rotation: {x: 0, y: -.10519316, z: 0, w: .994451821}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: pasted__group7
+      position: {x: -0, y: 8.8817842e-16, z: 0}
+      rotation: {x: -.105737776, y: 0, z: -0, w: .994394064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__Actual_Solider 1
+      position: {x: .0130768148, y: -6.24697447, z: -.737640738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__group 2
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__group1 1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group 4
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__Actual_Solider 3
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: group9
+      position: {x: -.0130768148, y: 5.53590155, z: 1.10569417}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__group8
+      position: {x: 1.04083409e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -.10519316, z: -0, w: .994451821}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group7
+      position: {x: -0, y: 8.8817842e-16, z: 0}
+      rotation: {x: -.105737776, y: 0, z: -0, w: .994394064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__Actual_Solider 1
+      position: {x: .0130768148, y: -6.24697447, z: -.737640738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group 2
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group1 1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group 3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__Actual_Solider 3
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: -.1991909, y: 27.9386578, z: 2.87820387}
+      rotation: {x: -.808441937, y: .00497512473, z: -.0435842127, w: .586939037}
+      scale: {x: .230271518, y: .146185532, z: .217113063}
+      transformModified: 1
+    - name: group10
+      position: {x: -.0242818017, y: 5.35908175, z: 1.06183481}
+      rotation: {x: .233798996, y: -0, z: 0, w: .972284973}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__group9
+      position: {x: .0112049878, y: -1.90294891e-10, z: .108119808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group8
+      position: {x: 1.04083409e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -.10519316, z: -0, w: .994451821}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group7
+      position: {x: -0, y: 8.8817842e-16, z: 0}
+      rotation: {x: -.105737776, y: 0, z: -0, w: .994394064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__Actual_Solider
+      position: {x: .0130768148, y: -6.24697447, z: -.737640738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__group 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider 1
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: -.207996294, y: 27.9473152, z: 2.83796883}
+      rotation: {x: -.808441937, y: .00497512473, z: -.0435842127, w: .586939037}
+      scale: {x: .230271518, y: .146185532, z: .217113063}
+      transformModified: 1
+    - name: group11
+      position: {x: -.0242818017, y: 5.15691614, z: 1.06183481}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__group10
+      position: {x: -0, y: 0, z: 2.22044605e-16}
+      rotation: {x: .233798996, y: -0, z: -0, w: .972284973}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group9
+      position: {x: .0112049878, y: -1.90294891e-10, z: .108119808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group8
+      position: {x: 1.04083409e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -.10519316, z: -0, w: .994451821}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group7
+      position: {x: -0, y: 8.8817842e-16, z: 0}
+      rotation: {x: -.105737776, y: 0, z: -0, w: .994394064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      position: {x: .0130768148, y: -6.24697447, z: -.737640738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__group
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__group1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__group 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+        1
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: -.207996294, y: 27.9473152, z: 2.83796883}
+      rotation: {x: -.808441937, y: .00497512473, z: -.0435842127, w: .586939037}
+      scale: {x: .230271518, y: .146185532, z: .217113063}
+      transformModified: 1
+    - name: group12
+      position: {x: -.0242818017, y: 4.94754887, z: 1.06183481}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__group10 1
+      position: {x: -0, y: 0, z: 2.22044605e-16}
+      rotation: {x: .233798996, y: -0, z: -0, w: .972284973}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group9 1
+      position: {x: .0112049878, y: -1.90294891e-10, z: .108119808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group8 1
+      position: {x: 1.04083409e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -.10519316, z: -0, w: .994451821}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group7 1
+      position: {x: -0, y: 8.8817842e-16, z: 0}
+      rotation: {x: -.105737776, y: 0, z: -0, w: .994394064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__Actual_Solider 1
+      position: {x: .0130768148, y: -6.24697447, z: -.737640738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__group 1
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__group1 1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__group 2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+        2
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+        1
+      position: {x: -.202697068, y: 27.9547462, z: 2.86490178}
+      rotation: {x: -.808441937, y: .00497512473, z: -.0435842127, w: .586939037}
+      scale: {x: .230271518, y: .146185532, z: .217113063}
+      transformModified: 1
+    - name: group13
+      position: {x: -.0242818017, y: 4.73946571, z: 1.08711779}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__group12
+      position: {x: -6.93889324e-17, y: 8.8817842e-16, z: -.00637867255}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group10
+      position: {x: -0, y: 0, z: 2.22044605e-16}
+      rotation: {x: .233798996, y: -0, z: -0, w: .972284973}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group9
+      position: {x: .0112049878, y: -1.90294891e-10, z: .108119808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group8
+      position: {x: 1.04083409e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -.10519316, z: -0, w: .994451821}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__group7
+      position: {x: -0, y: 8.8817842e-16, z: 0}
+      rotation: {x: -.105737776, y: 0, z: -0, w: .994394064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      position: {x: .0130768148, y: -6.24697447, z: -.737640738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__group
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__group1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+        1
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: -.202697068, y: 27.9547462, z: 2.86490178}
+      rotation: {x: -.808441937, y: .00497512473, z: -.0435842127, w: .586939037}
+      scale: {x: .230271518, y: .146185532, z: .217113063}
+      transformModified: 1
+    - name: group14
+      position: {x: -.0242818017, y: 4.52034187, z: 1.08711779}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__group13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group12
+      position: {x: -6.93889324e-17, y: 8.8817842e-16, z: -.00637867255}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group10
+      position: {x: -0, y: 0, z: 2.22044605e-16}
+      rotation: {x: .233798996, y: -0, z: -0, w: .972284973}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group9
+      position: {x: .0112049878, y: -1.90294891e-10, z: .108119808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__group8
+      position: {x: 1.04083409e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -.10519316, z: -0, w: .994451821}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__group7
+      position: {x: -0, y: 8.8817842e-16, z: 0}
+      rotation: {x: -.105737776, y: 0, z: -0, w: .994394064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      position: {x: .0130768148, y: -6.24697447, z: -.737640738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+        1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+        2
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: -.183440313, y: 27.7595348, z: 2.91497445}
+      rotation: {x: -.808441937, y: .00497512473, z: -.0435842127, w: .586939037}
+      scale: {x: .230271518, y: .146185532, z: .217113063}
+      transformModified: 1
+    - name: group15
+      position: {x: -.0242818017, y: 4.33023882, z: 1.12099349}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__group14
+      position: {x: -0, y: -8.8817842e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group12
+      position: {x: -6.93889324e-17, y: 8.8817842e-16, z: -.00637867255}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group10
+      position: {x: -0, y: 0, z: 2.22044605e-16}
+      rotation: {x: .233798996, y: -0, z: -0, w: .972284973}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__group9
+      position: {x: .0112049878, y: -1.90294891e-10, z: .108119808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__group8
+      position: {x: 1.04083409e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -.10519316, z: -0, w: .994451821}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+      position: {x: -0, y: 8.8817842e-16, z: 0}
+      rotation: {x: -.105737776, y: 0, z: -0, w: .994394064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      position: {x: .0130768148, y: -6.24697447, z: -.737640738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+        2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+        1
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: -.202697068, y: 27.9547462, z: 2.86490178}
+      rotation: {x: -.808441937, y: .00497512473, z: -.0435842127, w: .586939037}
+      scale: {x: .230271518, y: .146185532, z: .217113063}
+      transformModified: 1
+    - name: group16
+      position: {x: -.0242818017, y: 4.12138939, z: 1.12099349}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__group15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group14
+      position: {x: -0, y: -8.8817842e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group12
+      position: {x: -6.93889324e-17, y: 8.8817842e-16, z: -.00637867255}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__group10
+      position: {x: -0, y: 0, z: 2.22044605e-16}
+      rotation: {x: .233798996, y: -0, z: -0, w: .972284973}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__group9
+      position: {x: .0112049878, y: -1.90294891e-10, z: .108119808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group8
+      position: {x: 1.04083409e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -.10519316, z: -0, w: .994451821}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+      position: {x: -0, y: 8.8817842e-16, z: 0}
+      rotation: {x: -.105737776, y: 0, z: -0, w: .994394064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      position: {x: .0130768148, y: -6.24697447, z: -.737640738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+        1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+        1
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: -.338204265, y: 27.9486485, z: 2.8932457}
+      rotation: {x: -.808441937, y: .00497512473, z: -.0435842127, w: .586939037}
+      scale: {x: .230271518, y: .146185532, z: .217113063}
+      transformModified: 1
+    - name: group17
+      position: {x: -.0242818017, y: 3.91127157, z: 1.28175628}
+      rotation: {x: -.0889023691, y: 0, z: -0, w: .996040344}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: pasted__group15 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group14 1
+      position: {x: -0, y: -8.8817842e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group13 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group12 1
+      position: {x: -6.93889324e-17, y: 8.8817842e-16, z: -.00637867255}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__group10 1
+      position: {x: -0, y: 0, z: 2.22044605e-16}
+      rotation: {x: .233798996, y: -0, z: -0, w: .972284973}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__group9 1
+      position: {x: .0112049878, y: -1.90294891e-10, z: .108119808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group8 1
+      position: {x: 1.04083409e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -.10519316, z: -0, w: .994451821}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+        1
+      position: {x: -0, y: 8.8817842e-16, z: 0}
+      rotation: {x: -.105737776, y: 0, z: -0, w: .994394064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+        1
+      position: {x: .0130768148, y: -6.24697447, z: -.737640738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+        1
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+        1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+        2
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+        2
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+        1
+      position: {x: -.569645226, y: 27.8884315, z: 2.28681493}
+      rotation: {x: -.808441937, y: .00497512473, z: -.0435842127, w: .586939037}
+      scale: {x: .230271518, y: .146185532, z: .217113063}
+      transformModified: 1
+    - name: group18
+      position: {x: -.0242818017, y: 3.71809793, z: 1.33767903}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__group17
+      position: {x: -0, y: 8.8817842e-16, z: 0}
+      rotation: {x: -.0889023691, y: 0, z: -0, w: .996040344}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group14
+      position: {x: -0, y: -8.8817842e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__group12
+      position: {x: -6.93889324e-17, y: 8.8817842e-16, z: -.00637867255}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__group10
+      position: {x: -0, y: 0, z: 2.22044605e-16}
+      rotation: {x: .233798996, y: -0, z: -0, w: .972284973}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group9
+      position: {x: .0112049878, y: -1.90294891e-10, z: .108119808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group8
+      position: {x: 1.04083409e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -.10519316, z: -0, w: .994451821}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+      position: {x: -0, y: 8.8817842e-16, z: 0}
+      rotation: {x: -.105737776, y: 0, z: -0, w: .994394064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      position: {x: .0130768148, y: -6.24697447, z: -.737640738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+        1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: -.679908991, y: 27.8734112, z: 2.17761397}
+      rotation: {x: -.808441937, y: .00497512473, z: -.0435842127, w: .586939037}
+      scale: {x: .230271518, y: .146185532, z: .217113063}
+      transformModified: 1
+    - name: group19
+      position: {x: -.0242818017, y: 3.52890444, z: 1.39006937}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__group18
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__group17
+      position: {x: -0, y: 8.8817842e-16, z: 0}
+      rotation: {x: -.0889023691, y: 0, z: -0, w: .996040344}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__group15
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__group14
+      position: {x: -0, y: -8.8817842e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__group13
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__group12
+      position: {x: -6.93889324e-17, y: 8.8817842e-16, z: -.00637867255}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__group10
+      position: {x: -0, y: 0, z: 2.22044605e-16}
+      rotation: {x: .233798996, y: -0, z: -0, w: .972284973}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group9
+      position: {x: .0112049878, y: -1.90294891e-10, z: .108119808}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group8
+      position: {x: 1.04083409e-17, y: 0, z: 0}
+      rotation: {x: 0, y: -.10519316, z: -0, w: .994451821}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group7
+      position: {x: -0, y: 8.8817842e-16, z: 0}
+      rotation: {x: -.105737776, y: 0, z: -0, w: .994394064}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      position: {x: .0130768148, y: -6.24697447, z: -.737640738}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      position: {x: -2.47479343, y: 27.2928829, z: 3.39499903}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .324458897, y: .324458897, z: .324458897}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group1
+      position: {x: 8.8817842e-16, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__Actual_Solider
+      position: {x: 7.62744761, y: -84.1181488, z: -10.4635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: -.791889429, y: 27.8592224, z: 2.08071923}
+      rotation: {x: -.808441937, y: .00497512473, z: -.0435842127, w: .586939037}
+      scale: {x: .230271518, y: .146185532, z: .217113063}
+      transformModified: 1
+    - name: group20
+      position: {x: .430098087, y: 5.03876448, z: .911517084}
+      rotation: {x: 0, y: .364909589, z: 0, w: .931042969}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pCube3
+      position: {x: -.00537317991, y: .105343245, z: -.0405748263}
+      rotation: {x: 0, y: -.177587464, z: -0, w: .984105051}
+      scale: {x: .39297092, y: .574203968, z: .594075739}
+      transformModified: 1
+    - name: group21
+      position: {x: 5.84392405, y: 0, z: 3.3966639}
+      rotation: {x: 8.65881746e-17, y: .716309905, z: -8.65881746e-17, w: .697782278}
+      scale: {x: .29274261, y: 1, z: .99999994}
+      transformModified: 1
+    - name: group22
+      position: {x: -.227301329, y: 4.24226284, z: 1.19373429}
+      rotation: {x: .61867547, y: .286104172, z: .258599073, w: .684479058}
+      scale: {x: 1, y: .99999994, z: 1}
+      transformModified: 1
+    - name: group23
+      position: {x: -.151347235, y: -.370375812, z: -.206678033}
+      rotation: {x: -.00306982337, y: .0175108612, z: .294149905, w: .955593944}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pSphere2
+      position: {x: .538068473, y: -.0165004823, z: -.091005221}
+      rotation: {x: 1.49690323e-16, y: .716309905, z: -1.64301217e-16, w: .697782278}
+      scale: {x: 1.20286965, y: .0945929512, z: .372522891}
+      transformModified: 1
+    - name: pSphere2
+      position: {x: -.0152772013, y: -.00815778039, z: -.0904117972}
+      rotation: {x: -.0178904589, y: 0, z: -0, w: .999839962}
+      scale: {x: 4.10896635, y: .0945929512, z: .213447541}
+      transformModified: 1
+    - name: hips
+      position: {x: -5.57788269e-08, y: 4.16722345, z: .424927056}
+      rotation: {x: .424614459, y: -.565422475, z: -.424614429, w: .565422475}
+      scale: {x: .999999225, y: 1, z: 1}
+      transformModified: 1
+    - name: spine_3
+      position: {x: -.783557355, y: -9.56921795e-08, z: -4.88242442e-08}
+      rotation: {x: -4.10410088e-08, y: 1.96806447e-08, z: -.0837409943, w: .996487617}
+      scale: {x: 1.00000024, y: .999999523, z: 1}
+      transformModified: 1
+    - name: spine_2
+      position: {x: -.635301828, y: -4.95875383e-07, z: -5.40829674e-08}
+      rotation: {x: 2.98023224e-08, y: -2.98023224e-08, z: -.0574067831, w: .998350918}
+      scale: {x: .999999285, y: 1, z: .999999225}
+      transformModified: 1
+    - name: spine
+      position: {x: -.558300197, y: 8.71875159e-08, z: -2.97815639e-08}
+      rotation: {x: -.999688089, y: .0249765515, z: 2.98023224e-08, w: -2.98023224e-08}
+      scale: {x: 1.00000155, y: 1.00000179, z: 1.00000024}
+      transformModified: 1
+    - name: neck
+      position: {x: -.48608017, y: 1.52023709e-08, z: 2.09580211e-08}
+      rotation: {x: -1.15019123e-08, y: 4.2461167e-08, z: .0819591284, w: .996635735}
+      scale: {x: .999999106, y: .999997735, z: 1}
+      transformModified: 1
+    - name: head
+      position: {x: -.571335077, y: -1.24710624e-07, z: 1.78819697e-08}
+      rotation: {x: .443725824, y: -.550551951, z: .443725824, w: .550551951}
+      scale: {x: 1.00000012, y: 1.0000006, z: 1.00000012}
+      transformModified: 1
+    - name: shoulderLeft
+      position: {x: -.21751377, y: .0108756246, z: -1.03449941}
+      rotation: {x: .471131414, y: -.527290463, z: .503105402, w: .496875197}
+      scale: {x: 1.00000024, y: 1.00000012, z: .999998808}
+      transformModified: 1
+    - name: elbowLeft
+      position: {x: -1.00861752, y: -2.52192791e-07, z: -3.60083376e-08}
+      rotation: {x: -5.85556892e-09, y: -1.50393689e-08, z: -.0358744599, w: .999356389}
+      scale: {x: 1.00000072, y: 1, z: 1}
+      transformModified: 1
+    - name: wristLeft
+      position: {x: -.841534793, y: -5.06039726e-07, z: 2.62599471e-08}
+      rotation: {x: 4.07755323e-08, y: 2.52746499e-08, z: .0183669087, w: .999831319}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: hendLeft
+      position: {x: -.574324906, y: 6.44832744e-06, z: 9.6949627e-08}
+      rotation: {x: -.480293751, y: .518958509, z: -.494326353, w: .505610108}
+      scale: {x: 1, y: 1.00000012, z: .999999881}
+      transformModified: 1
+    - name: shoulderRight
+      position: {x: -.178239793, y: .00891200081, z: 1.05745125}
+      rotation: {x: -.466254383, y: .531607926, z: .507660866, w: .492219955}
+      scale: {x: .999999642, y: .999999702, z: .999998331}
+      transformModified: 1
+    - name: elbowRight
+      position: {x: -.919874847, y: -4.66491912e-07, z: -1.74546628e-07}
+      rotation: {x: -7.85035592e-09, y: 1.21017001e-08, z: -.0642540827, w: .997933626}
+      scale: {x: 1.00000048, y: .999999642, z: 1.00000048}
+      transformModified: 1
+    - name: wristRight
+      position: {x: -.912278533, y: -1.47756384e-06, z: -1.9285504e-07}
+      rotation: {x: -4.44234094e-10, y: -2.53054271e-08, z: .0227096491, w: .999742091}
+      scale: {x: 1, y: 1.00000024, z: 1}
+      transformModified: 1
+    - name: handRight
+      position: {x: -.519591749, y: 1.42558565e-06, z: -9.31878716e-08}
+      rotation: {x: .475595146, y: -.523267925, z: -.498864979, w: .501132548}
+      scale: {x: .999999583, y: 1.00000024, z: .999999642}
+      transformModified: 1
+    - name: upperLegLeft
+      position: {x: .18133907, y: -.052646786, z: .515271187}
+      rotation: {x: .0889515355, y: .701489627, z: .698473513, w: .110158265}
+      scale: {x: .999999106, y: 1.00000048, z: .999999881}
+      transformModified: 1
+    - name: lowerLegLeft
+      position: {x: -1.48840666, y: 7.20194404e-10, z: -7.71971287e-08}
+      rotation: {x: -2.04126116e-09, y: 2.94637958e-09, z: -.0576831661, w: .998335004}
+      scale: {x: 1.00000036, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: footLeft
+      position: {x: -2.15282655, y: 6.70090174e-07, z: 1.45784924e-07}
+      rotation: {x: .546827912, y: .448307097, z: -.364151239, w: .606130362}
+      scale: {x: .999999642, y: .999999881, z: .999999404}
+      transformModified: 1
+    - name: toeLeft
+      position: {x: -.682504416, y: 2.466289e-07, z: 2.49042586e-07}
+      rotation: {x: .455182999, y: -.890397966, z: -2.40781279e-08, w: 8.15572889e-08}
+      scale: {x: 1, y: 1.00000024, z: 1.00000012}
+      transformModified: 1
+    - name: upperLegRight
+      position: {x: .173664808, y: -.0504189469, z: -.494179219}
+      rotation: {x: .080965288, y: .702456176, z: -.697175086, w: -.118097343}
+      scale: {x: .999999821, y: .999999583, z: .999999344}
+      transformModified: 1
+    - name: lowerLegRight
+      position: {x: -1.40169585, y: 7.96378004e-07, z: -1.72142236e-07}
+      rotation: {x: -.705813468, y: -.0427481495, z: .00526408292, w: -.707087159}
+      scale: {x: 1.00000012, y: .999999821, z: 1.0000006}
+      transformModified: 1
+    - name: footRight
+      position: {x: -2.3100605, y: -1.15620566e-07, z: -.167713225}
+      rotation: {x: .758341014, y: .651858151, z: 4.18951878e-08, w: -4.59892746e-09}
+      scale: {x: .999999285, y: .999999583, z: .999999285}
+      transformModified: 1
+    - name: toeRight
+      position: {x: -.834504068, y: -1.81953382e-07, z: -5.8029233e-08}
+      rotation: {x: .509657145, y: -.86037761, z: 3.75609623e-08, w: 2.08478781e-08}
+      scale: {x: .999999881, y: .99999994, z: 1}
+      transformModified: 1
+    - name: mentalrayIbl1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 409.997467, y: 409.997467, z: 409.997467}
+      transformModified: 1
+    - name: pasted__boots
+      position: {x: -.0620961264, y: -.576635301, z: .0380191579}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: .224304721, y: .224304721, z: .224304721}
+      transformModified: 1
+    - name: pCube3
+      position: {x: -.445412278, y: 5.1441083, z: .808314502}
+      rotation: {x: 0, y: -.177587464, z: 0, w: .984105051}
+      scale: {x: .39297092, y: .574203968, z: .594075799}
+      transformModified: 1
+    - name: pCylinder1
+      position: {x: -.0362751894, y: 4.36406898, z: .532773197}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: .781633735, y: .162045062, z: .795831501}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  userData: 

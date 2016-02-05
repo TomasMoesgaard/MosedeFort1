@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: 6075a54ff758b9047a1ab778eae594e8
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Actual_Solider
+    100002: Chest
+    100004: group
+    100006: group1
+    100008: Head
+    100010: Hips
+    100012: L_Hand
+    100014: L_Toe1
+    100016: LeftArm
+    100018: LeftFoot
+    100020: LeftForeArm
+    100022: LeftHand
+    100024: LeftLeg
+    100026: LeftUpLeg
+    100028: //RootNode
+    100030: Neck
+    100032: OWL:optical
+    100034: OWL:optical:M000
+    100036: OWL:optical:M001
+    100038: OWL:optical:M002
+    100040: OWL:optical:M003
+    100042: OWL:optical:M004
+    100044: OWL:optical:M005
+    100046: OWL:optical:M006
+    100048: OWL:optical:M007
+    100050: OWL:optical:M008
+    100052: OWL:optical:M009
+    100054: OWL:optical:M010
+    100056: OWL:optical:M011
+    100058: OWL:optical:M012
+    100060: OWL:optical:M013
+    100062: OWL:optical:M014
+    100064: OWL:optical:M015
+    100066: OWL:optical:M016
+    100068: OWL:optical:M017
+    100070: OWL:optical:M018
+    100072: OWL:optical:M019
+    100074: OWL:optical:M020
+    100076: OWL:optical:M021
+    100078: OWL:optical:M022
+    100080: OWL:optical:M023
+    100082: OWL:optical:M024
+    100084: OWL:optical:M025
+    100086: OWL:optical:M026
+    100088: OWL:optical:M027
+    100090: OWL:optical:M028
+    100092: OWL:optical:M029
+    100094: OWL:optical:M030
+    100096: OWL:optical:M031
+    100098: OWL:optical:M032
+    100100: OWL:optical:M033
+    100102: OWL:optical:M034
+    100104: OWL:optical:M035
+    100106: OWL:optical:M036
+    100108: OWL:optical:M037
+    100110: OWL:optical:M038
+    100112: OWL:optical:M039
+    100114: OWL:optical:M040
+    100116: OWL:optical:M041
+    100118: OWL:optical:M042
+    100120: OWL:optical:M043
+    100122: OWL:optical:M044
+    100124: OWL:optical:M045
+    100126: OWL:optical:M046
+    100128: OWL:optical:M047
+    100130: OWL:optical:M048
+    100132: OWL:optical:M049
+    100134: OWL:optical:M050
+    100136: OWL:optical:M051
+    100138: OWL:optical:M052
+    100140: OWL:optical:M053
+    100142: OWL:optical:M054
+    100144: OWL:optical:M055
+    100146: OWL:optical:M056
+    100148: OWL:optical:M057
+    100150: OWL:optical:M058
+    100152: OWL:optical:M059
+    100154: OWL:optical:M060
+    100156: OWL:optical:M061
+    100158: OWL:optical:M062
+    100160: OWL:optical:M063
+    100162: OWL:optical:M064
+    100164: OWL:optical:M065
+    100166: OWL:optical:M066
+    100168: OWL:optical:M067
+    100170: OWL:optical:M068
+    100172: OWL:optical:M069
+    100174: OWL:optical:M070
+    100176: OWL:optical:M071
+    100178: OWL:optical:M072
+    100180: OWL:optical:M073
+    100182: OWL:optical:M074
+    100184: OWL:optical:M075
+    100186: OWL:optical:M076
+    100188: OWL:optical:M077
+    100190: OWL:optical:M078
+    100192: OWL:optical:M079
+    100194: OWL:optical:M080
+    100196: OWL:optical:M081
+    100198: OWL:optical:M082
+    100200: OWL:optical:M083
+    100202: OWL:optical:M084
+    100204: OWL:optical:M085
+    100206: OWL:optical:M086
+    100208: OWL:optical:M087
+    100210: OWL:optical:M088
+    100212: OWL:optical:M089
+    100214: OWL:optical:M090
+    100216: OWL:optical:M091
+    100218: OWL:optical:M092
+    100220: OWL:optical:M093
+    100222: OWL:optical:M094
+    100224: OWL:optical:M095
+    100226: OWL:optical:M096
+    100228: OWL:optical:M097
+    100230: OWL:optical:M098
+    100232: OWL:optical:M099
+    100234: OWL:optical:M100
+    100236: OWL:optical:M101
+    100238: OWL:optical:M102
+    100240: OWL:optical:M103
+    100242: OWL:optical:M104
+    100244: OWL:optical:M105
+    100246: OWL:optical:M106
+    100248: OWL:optical:M107
+    100250: OWL:optical:M108
+    100252: OWL:optical:M109
+    100254: OWL:optical:M110
+    100256: OWL:optical:M111
+    100258: OWL:optical:M112
+    100260: OWL:optical:M113
+    100262: pasted__Actual_Solider
+    100264: pasted__body
+    100266: pasted__boots
+    100268: pasted__group
+    100270: pasted__hands
+    100272: pasted__head
+    100274: pasted__pasted__Actual_Solider
+    100276: pasted__pasted__hands
+    100278: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    100280: pasted__pasted__pasted__pasted__pasted__pasted__pSphere2
+    100282: pasted__pasted__pasted__pasted__pasted__pSphere1
+    100284: pasted__pasted__pasted__pasted__pasted__pSphere2
+    100286: pasted__pasted__pasted__pasted__pasted__pSphere3
+    100288: pasted__pasted__pasted__pasted__pasted__pSphere4
+    100290: pasted__pasted__pasted__pasted__pasted__pSphere5
+    100292: pasted__pasted__pasted__pasted__pasted__pSphere6
+    100294: pasted__pasted__pasted__pasted__pasted__pSphere7
+    100296: pasted__pasted__pasted__pasted__pasted__pSphere8
+    100298: pasted__pasted__pasted__pasted__pSphere2
+    100300: pasted__pasted__pasted__pasted__pSphere3
+    100302: pasted__pasted__pasted__pasted__pSphere4
+    100304: pasted__pasted__pasted__pSphere1
+    100306: pasted__pasted__pasted__pSphere3
+    100308: pasted__pasted__pasted__pSphere4
+    100310: pasted__pasted__pSphere1
+    100312: pasted__pCylinder1
+    100314: pasted__pCylinder2
+    100316: pCube1
+    100318: pCube2
+    100320: polySurface2
+    100322: polySurface3
+    100324: polySurface4
+    100326: polySurface5
+    100328: polySurface6
+    100330: pSphere1
+    100332: R_Hand
+    100334: R_Toe
+    100336: RightArm
+    100338: RightFoot
+    100340: RightForeArm
+    100342: RightHand
+    100344: RightLeg
+    100346: RightUpLeg
+    100348: Spine
+    100350: transform1
+    100352: transform2
+    100354: transform3
+    400000: Actual_Solider
+    400002: Chest
+    400004: group
+    400006: group1
+    400008: Head
+    400010: Hips
+    400012: L_Hand
+    400014: L_Toe1
+    400016: LeftArm
+    400018: LeftFoot
+    400020: LeftForeArm
+    400022: LeftHand
+    400024: LeftLeg
+    400026: LeftUpLeg
+    400028: //RootNode
+    400030: Neck
+    400032: OWL:optical
+    400034: OWL:optical:M000
+    400036: OWL:optical:M001
+    400038: OWL:optical:M002
+    400040: OWL:optical:M003
+    400042: OWL:optical:M004
+    400044: OWL:optical:M005
+    400046: OWL:optical:M006
+    400048: OWL:optical:M007
+    400050: OWL:optical:M008
+    400052: OWL:optical:M009
+    400054: OWL:optical:M010
+    400056: OWL:optical:M011
+    400058: OWL:optical:M012
+    400060: OWL:optical:M013
+    400062: OWL:optical:M014
+    400064: OWL:optical:M015
+    400066: OWL:optical:M016
+    400068: OWL:optical:M017
+    400070: OWL:optical:M018
+    400072: OWL:optical:M019
+    400074: OWL:optical:M020
+    400076: OWL:optical:M021
+    400078: OWL:optical:M022
+    400080: OWL:optical:M023
+    400082: OWL:optical:M024
+    400084: OWL:optical:M025
+    400086: OWL:optical:M026
+    400088: OWL:optical:M027
+    400090: OWL:optical:M028
+    400092: OWL:optical:M029
+    400094: OWL:optical:M030
+    400096: OWL:optical:M031
+    400098: OWL:optical:M032
+    400100: OWL:optical:M033
+    400102: OWL:optical:M034
+    400104: OWL:optical:M035
+    400106: OWL:optical:M036
+    400108: OWL:optical:M037
+    400110: OWL:optical:M038
+    400112: OWL:optical:M039
+    400114: OWL:optical:M040
+    400116: OWL:optical:M041
+    400118: OWL:optical:M042
+    400120: OWL:optical:M043
+    400122: OWL:optical:M044
+    400124: OWL:optical:M045
+    400126: OWL:optical:M046
+    400128: OWL:optical:M047
+    400130: OWL:optical:M048
+    400132: OWL:optical:M049
+    400134: OWL:optical:M050
+    400136: OWL:optical:M051
+    400138: OWL:optical:M052
+    400140: OWL:optical:M053
+    400142: OWL:optical:M054
+    400144: OWL:optical:M055
+    400146: OWL:optical:M056
+    400148: OWL:optical:M057
+    400150: OWL:optical:M058
+    400152: OWL:optical:M059
+    400154: OWL:optical:M060
+    400156: OWL:optical:M061
+    400158: OWL:optical:M062
+    400160: OWL:optical:M063
+    400162: OWL:optical:M064
+    400164: OWL:optical:M065
+    400166: OWL:optical:M066
+    400168: OWL:optical:M067
+    400170: OWL:optical:M068
+    400172: OWL:optical:M069
+    400174: OWL:optical:M070
+    400176: OWL:optical:M071
+    400178: OWL:optical:M072
+    400180: OWL:optical:M073
+    400182: OWL:optical:M074
+    400184: OWL:optical:M075
+    400186: OWL:optical:M076
+    400188: OWL:optical:M077
+    400190: OWL:optical:M078
+    400192: OWL:optical:M079
+    400194: OWL:optical:M080
+    400196: OWL:optical:M081
+    400198: OWL:optical:M082
+    400200: OWL:optical:M083
+    400202: OWL:optical:M084
+    400204: OWL:optical:M085
+    400206: OWL:optical:M086
+    400208: OWL:optical:M087
+    400210: OWL:optical:M088
+    400212: OWL:optical:M089
+    400214: OWL:optical:M090
+    400216: OWL:optical:M091
+    400218: OWL:optical:M092
+    400220: OWL:optical:M093
+    400222: OWL:optical:M094
+    400224: OWL:optical:M095
+    400226: OWL:optical:M096
+    400228: OWL:optical:M097
+    400230: OWL:optical:M098
+    400232: OWL:optical:M099
+    400234: OWL:optical:M100
+    400236: OWL:optical:M101
+    400238: OWL:optical:M102
+    400240: OWL:optical:M103
+    400242: OWL:optical:M104
+    400244: OWL:optical:M105
+    400246: OWL:optical:M106
+    400248: OWL:optical:M107
+    400250: OWL:optical:M108
+    400252: OWL:optical:M109
+    400254: OWL:optical:M110
+    400256: OWL:optical:M111
+    400258: OWL:optical:M112
+    400260: OWL:optical:M113
+    400262: pasted__Actual_Solider
+    400264: pasted__body
+    400266: pasted__boots
+    400268: pasted__group
+    400270: pasted__hands
+    400272: pasted__head
+    400274: pasted__pasted__Actual_Solider
+    400276: pasted__pasted__hands
+    400278: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    400280: pasted__pasted__pasted__pasted__pasted__pasted__pSphere2
+    400282: pasted__pasted__pasted__pasted__pasted__pSphere1
+    400284: pasted__pasted__pasted__pasted__pasted__pSphere2
+    400286: pasted__pasted__pasted__pasted__pasted__pSphere3
+    400288: pasted__pasted__pasted__pasted__pasted__pSphere4
+    400290: pasted__pasted__pasted__pasted__pasted__pSphere5
+    400292: pasted__pasted__pasted__pasted__pasted__pSphere6
+    400294: pasted__pasted__pasted__pasted__pasted__pSphere7
+    400296: pasted__pasted__pasted__pasted__pasted__pSphere8
+    400298: pasted__pasted__pasted__pasted__pSphere2
+    400300: pasted__pasted__pasted__pasted__pSphere3
+    400302: pasted__pasted__pasted__pasted__pSphere4
+    400304: pasted__pasted__pasted__pSphere1
+    400306: pasted__pasted__pasted__pSphere3
+    400308: pasted__pasted__pasted__pSphere4
+    400310: pasted__pasted__pSphere1
+    400312: pasted__pCylinder1
+    400314: pasted__pCylinder2
+    400316: pCube1
+    400318: pCube2
+    400320: polySurface2
+    400322: polySurface3
+    400324: polySurface4
+    400326: polySurface5
+    400328: polySurface6
+    400330: pSphere1
+    400332: R_Hand
+    400334: R_Toe
+    400336: RightArm
+    400338: RightFoot
+    400340: RightForeArm
+    400342: RightHand
+    400344: RightLeg
+    400346: RightUpLeg
+    400348: Spine
+    400350: transform1
+    400352: transform2
+    400354: transform3
+    4300000: pasted__head
+    4300002: polySurface3
+    4300004: polySurface5
+    4300006: polySurface6
+    4300008: pCube2
+    4300010: pCube1
+    4300012: pasted__boots
+    4300014: pasted__pasted__pSphere1
+    4300016: pasted__pasted__pasted__pSphere1
+    4300018: pasted__pasted__pasted__pasted__pSphere2
+    4300020: pasted__pasted__pasted__pSphere3
+    4300022: pasted__pasted__pasted__pSphere4
+    4300024: pasted__pasted__pasted__pasted__pSphere3
+    4300026: pasted__pasted__pasted__pasted__pSphere4
+    4300028: pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300030: pasted__pasted__pasted__pasted__pasted__pSphere2
+    4300032: pasted__pasted__pasted__pasted__pasted__pSphere3
+    4300034: pasted__pasted__pasted__pasted__pasted__pSphere4
+    4300036: pasted__pasted__pasted__pasted__pasted__pSphere5
+    4300038: pasted__pasted__pasted__pasted__pasted__pSphere6
+    4300040: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300042: pasted__pCylinder1
+    4300044: pSphere1
+    4300046: pasted__pCylinder2
+    4300048: pasted__pasted__pasted__pasted__pasted__pSphere7
+    4300050: pasted__hands
+    4300052: pasted__pasted__hands
+    4300054: pasted__pasted__pasted__pasted__pasted__pSphere8
+    4300056: pasted__pasted__pasted__pasted__pasted__pasted__pSphere2
+    7400000: Looking
+    7400002: Looking2
+    9500000: //RootNode
+    13700000: pasted__boots
+    13700002: pasted__hands
+    13700004: pasted__head
+    13700006: pasted__pasted__hands
+    13700008: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700010: pasted__pasted__pasted__pasted__pasted__pasted__pSphere2
+    13700012: pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700014: pasted__pasted__pasted__pasted__pasted__pSphere2
+    13700016: pasted__pasted__pasted__pasted__pasted__pSphere3
+    13700018: pasted__pasted__pasted__pasted__pasted__pSphere4
+    13700020: pasted__pasted__pasted__pasted__pasted__pSphere5
+    13700022: pasted__pasted__pasted__pasted__pasted__pSphere6
+    13700024: pasted__pasted__pasted__pasted__pasted__pSphere7
+    13700026: pasted__pasted__pasted__pasted__pasted__pSphere8
+    13700028: pasted__pasted__pasted__pasted__pSphere2
+    13700030: pasted__pasted__pasted__pasted__pSphere3
+    13700032: pasted__pasted__pasted__pasted__pSphere4
+    13700034: pasted__pasted__pasted__pSphere1
+    13700036: pasted__pasted__pasted__pSphere3
+    13700038: pasted__pasted__pasted__pSphere4
+    13700040: pasted__pasted__pSphere1
+    13700042: pasted__pCylinder1
+    13700044: pasted__pCylinder2
+    13700046: pCube1
+    13700048: pCube2
+    13700050: polySurface3
+    13700052: polySurface5
+    13700054: polySurface6
+    13700056: pSphere1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Looking
+      takeName: Take 004
+      firstFrame: 11822
+      lastFrame: 12622
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Actual_Solider
+        weight: 1
+      - path: Actual_Solider/pasted__body
+        weight: 1
+      - path: Actual_Solider/pasted__body/polySurface2
+        weight: 1
+      - path: Actual_Solider/pasted__body/polySurface2/polySurface3
+        weight: 1
+      - path: Actual_Solider/pasted__body/polySurface2/polySurface4
+        weight: 1
+      - path: Actual_Solider/pasted__body/polySurface2/polySurface4/polySurface5
+        weight: 1
+      - path: Actual_Solider/pasted__body/polySurface2/polySurface4/polySurface6
+        weight: 1
+      - path: Actual_Solider/pasted__body/polySurface2/polySurface4/polySurface6/pCube1
+        weight: 1
+      - path: Actual_Solider/pasted__body/polySurface2/polySurface4/polySurface6/pCube2
+        weight: 1
+      - path: Actual_Solider/pasted__body/polySurface2/polySurface4/transform3
+        weight: 1
+      - path: Actual_Solider/pasted__body/polySurface2/transform2
+        weight: 1
+      - path: Actual_Solider/pasted__body/transform1
+        weight: 1
+      - path: Actual_Solider/pasted__boots
+        weight: 1
+      - path: Actual_Solider/pasted__hands
+        weight: 1
+      - path: Actual_Solider/pasted__head
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__hands
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere1
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere2
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere3
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere4
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere5
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere6
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere7
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pSphere2
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pSphere3
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pSphere4
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pasted__pSphere1
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pasted__pSphere3
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pasted__pSphere4
+        weight: 1
+      - path: Actual_Solider/pasted__pasted__pSphere1
+        weight: 1
+      - path: Actual_Solider/pasted__pCylinder1
+        weight: 1
+      - path: Actual_Solider/pasted__pCylinder2
+        weight: 1
+      - path: Actual_Solider/pSphere1
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/pasted__Actual_Solider
+        weight: 1
+      - path: group/pasted__Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere8
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pasted__group
+        weight: 1
+      - path: group1/pasted__group/pasted__pasted__Actual_Solider
+        weight: 1
+      - path: group1/pasted__group/pasted__pasted__Actual_Solider/pasted__pasted__pasted__pasted__pasted__pasted__pSphere2
+        weight: 1
+      - path: Hips
+        weight: 1
+      - path: Hips/LeftUpLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot/L_Toe1
+        weight: 1
+      - path: Hips/RightUpLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot/R_Toe
+        weight: 1
+      - path: Hips/Spine
+        weight: 1
+      - path: Hips/Spine/Chest
+        weight: 1
+      - path: Hips/Spine/Chest/LeftArm
+        weight: 1
+      - path: Hips/Spine/Chest/LeftArm/LeftForeArm
+        weight: 1
+      - path: Hips/Spine/Chest/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Hips/Spine/Chest/LeftArm/LeftForeArm/LeftHand/L_Hand
+        weight: 1
+      - path: Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Hips/Spine/Chest/RightArm
+        weight: 1
+      - path: Hips/Spine/Chest/RightArm/RightForeArm
+        weight: 1
+      - path: Hips/Spine/Chest/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Hips/Spine/Chest/RightArm/RightForeArm/RightHand/R_Hand
+        weight: 1
+      - path: OWL:optical
+        weight: 1
+      - path: OWL:optical/OWL:optical:M000
+        weight: 1
+      - path: OWL:optical/OWL:optical:M001
+        weight: 1
+      - path: OWL:optical/OWL:optical:M002
+        weight: 1
+      - path: OWL:optical/OWL:optical:M003
+        weight: 1
+      - path: OWL:optical/OWL:optical:M004
+        weight: 1
+      - path: OWL:optical/OWL:optical:M005
+        weight: 1
+      - path: OWL:optical/OWL:optical:M006
+        weight: 1
+      - path: OWL:optical/OWL:optical:M007
+        weight: 1
+      - path: OWL:optical/OWL:optical:M008
+        weight: 1
+      - path: OWL:optical/OWL:optical:M009
+        weight: 1
+      - path: OWL:optical/OWL:optical:M010
+        weight: 1
+      - path: OWL:optical/OWL:optical:M011
+        weight: 1
+      - path: OWL:optical/OWL:optical:M012
+        weight: 1
+      - path: OWL:optical/OWL:optical:M013
+        weight: 1
+      - path: OWL:optical/OWL:optical:M014
+        weight: 1
+      - path: OWL:optical/OWL:optical:M015
+        weight: 1
+      - path: OWL:optical/OWL:optical:M016
+        weight: 1
+      - path: OWL:optical/OWL:optical:M017
+        weight: 1
+      - path: OWL:optical/OWL:optical:M018
+        weight: 1
+      - path: OWL:optical/OWL:optical:M019
+        weight: 1
+      - path: OWL:optical/OWL:optical:M020
+        weight: 1
+      - path: OWL:optical/OWL:optical:M021
+        weight: 1
+      - path: OWL:optical/OWL:optical:M022
+        weight: 1
+      - path: OWL:optical/OWL:optical:M023
+        weight: 1
+      - path: OWL:optical/OWL:optical:M024
+        weight: 1
+      - path: OWL:optical/OWL:optical:M025
+        weight: 1
+      - path: OWL:optical/OWL:optical:M026
+        weight: 1
+      - path: OWL:optical/OWL:optical:M027
+        weight: 1
+      - path: OWL:optical/OWL:optical:M028
+        weight: 1
+      - path: OWL:optical/OWL:optical:M029
+        weight: 1
+      - path: OWL:optical/OWL:optical:M030
+        weight: 1
+      - path: OWL:optical/OWL:optical:M031
+        weight: 1
+      - path: OWL:optical/OWL:optical:M032
+        weight: 1
+      - path: OWL:optical/OWL:optical:M033
+        weight: 1
+      - path: OWL:optical/OWL:optical:M034
+        weight: 1
+      - path: OWL:optical/OWL:optical:M035
+        weight: 1
+      - path: OWL:optical/OWL:optical:M036
+        weight: 1
+      - path: OWL:optical/OWL:optical:M037
+        weight: 1
+      - path: OWL:optical/OWL:optical:M038
+        weight: 1
+      - path: OWL:optical/OWL:optical:M039
+        weight: 1
+      - path: OWL:optical/OWL:optical:M040
+        weight: 1
+      - path: OWL:optical/OWL:optical:M041
+        weight: 1
+      - path: OWL:optical/OWL:optical:M042
+        weight: 1
+      - path: OWL:optical/OWL:optical:M043
+        weight: 1
+      - path: OWL:optical/OWL:optical:M044
+        weight: 1
+      - path: OWL:optical/OWL:optical:M045
+        weight: 1
+      - path: OWL:optical/OWL:optical:M046
+        weight: 1
+      - path: OWL:optical/OWL:optical:M047
+        weight: 1
+      - path: OWL:optical/OWL:optical:M048
+        weight: 1
+      - path: OWL:optical/OWL:optical:M049
+        weight: 1
+      - path: OWL:optical/OWL:optical:M050
+        weight: 1
+      - path: OWL:optical/OWL:optical:M051
+        weight: 1
+      - path: OWL:optical/OWL:optical:M052
+        weight: 1
+      - path: OWL:optical/OWL:optical:M053
+        weight: 1
+      - path: OWL:optical/OWL:optical:M054
+        weight: 1
+      - path: OWL:optical/OWL:optical:M055
+        weight: 1
+      - path: OWL:optical/OWL:optical:M056
+        weight: 1
+      - path: OWL:optical/OWL:optical:M057
+        weight: 1
+      - path: OWL:optical/OWL:optical:M058
+        weight: 1
+      - path: OWL:optical/OWL:optical:M059
+        weight: 1
+      - path: OWL:optical/OWL:optical:M060
+        weight: 1
+      - path: OWL:optical/OWL:optical:M061
+        weight: 1
+      - path: OWL:optical/OWL:optical:M062
+        weight: 1
+      - path: OWL:optical/OWL:optical:M063
+        weight: 1
+      - path: OWL:optical/OWL:optical:M064
+        weight: 1
+      - path: OWL:optical/OWL:optical:M065
+        weight: 1
+      - path: OWL:optical/OWL:optical:M066
+        weight: 1
+      - path: OWL:optical/OWL:optical:M067
+        weight: 1
+      - path: OWL:optical/OWL:optical:M068
+        weight: 1
+      - path: OWL:optical/OWL:optical:M069
+        weight: 1
+      - path: OWL:optical/OWL:optical:M070
+        weight: 1
+      - path: OWL:optical/OWL:optical:M071
+        weight: 1
+      - path: OWL:optical/OWL:optical:M072
+        weight: 1
+      - path: OWL:optical/OWL:optical:M073
+        weight: 1
+      - path: OWL:optical/OWL:optical:M074
+        weight: 1
+      - path: OWL:optical/OWL:optical:M075
+        weight: 1
+      - path: OWL:optical/OWL:optical:M076
+        weight: 1
+      - path: OWL:optical/OWL:optical:M077
+        weight: 1
+      - path: OWL:optical/OWL:optical:M078
+        weight: 1
+      - path: OWL:optical/OWL:optical:M079
+        weight: 1
+      - path: OWL:optical/OWL:optical:M080
+        weight: 1
+      - path: OWL:optical/OWL:optical:M081
+        weight: 1
+      - path: OWL:optical/OWL:optical:M082
+        weight: 1
+      - path: OWL:optical/OWL:optical:M083
+        weight: 1
+      - path: OWL:optical/OWL:optical:M084
+        weight: 1
+      - path: OWL:optical/OWL:optical:M085
+        weight: 1
+      - path: OWL:optical/OWL:optical:M086
+        weight: 1
+      - path: OWL:optical/OWL:optical:M087
+        weight: 1
+      - path: OWL:optical/OWL:optical:M088
+        weight: 1
+      - path: OWL:optical/OWL:optical:M089
+        weight: 1
+      - path: OWL:optical/OWL:optical:M090
+        weight: 1
+      - path: OWL:optical/OWL:optical:M091
+        weight: 1
+      - path: OWL:optical/OWL:optical:M092
+        weight: 1
+      - path: OWL:optical/OWL:optical:M093
+        weight: 1
+      - path: OWL:optical/OWL:optical:M094
+        weight: 1
+      - path: OWL:optical/OWL:optical:M095
+        weight: 1
+      - path: OWL:optical/OWL:optical:M096
+        weight: 1
+      - path: OWL:optical/OWL:optical:M097
+        weight: 1
+      - path: OWL:optical/OWL:optical:M098
+        weight: 1
+      - path: OWL:optical/OWL:optical:M099
+        weight: 1
+      - path: OWL:optical/OWL:optical:M100
+        weight: 1
+      - path: OWL:optical/OWL:optical:M101
+        weight: 1
+      - path: OWL:optical/OWL:optical:M102
+        weight: 1
+      - path: OWL:optical/OWL:optical:M103
+        weight: 1
+      - path: OWL:optical/OWL:optical:M104
+        weight: 1
+      - path: OWL:optical/OWL:optical:M105
+        weight: 1
+      - path: OWL:optical/OWL:optical:M106
+        weight: 1
+      - path: OWL:optical/OWL:optical:M107
+        weight: 1
+      - path: OWL:optical/OWL:optical:M108
+        weight: 1
+      - path: OWL:optical/OWL:optical:M109
+        weight: 1
+      - path: OWL:optical/OWL:optical:M110
+        weight: 1
+      - path: OWL:optical/OWL:optical:M111
+        weight: 1
+      - path: OWL:optical/OWL:optical:M112
+        weight: 1
+      - path: OWL:optical/OWL:optical:M113
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Looking2
+      takeName: Take 004
+      firstFrame: 12084
+      lastFrame: 12319
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Actual_Solider
+        weight: 0
+      - path: Actual_Solider/pasted__body
+        weight: 0
+      - path: Actual_Solider/pasted__body/polySurface2
+        weight: 0
+      - path: Actual_Solider/pasted__body/polySurface2/polySurface3
+        weight: 0
+      - path: Actual_Solider/pasted__body/polySurface2/polySurface4
+        weight: 0
+      - path: Actual_Solider/pasted__body/polySurface2/polySurface4/polySurface5
+        weight: 0
+      - path: Actual_Solider/pasted__body/polySurface2/polySurface4/polySurface6
+        weight: 0
+      - path: Actual_Solider/pasted__body/polySurface2/polySurface4/polySurface6/pCube1
+        weight: 0
+      - path: Actual_Solider/pasted__body/polySurface2/polySurface4/polySurface6/pCube2
+        weight: 0
+      - path: Actual_Solider/pasted__body/polySurface2/polySurface4/transform3
+        weight: 0
+      - path: Actual_Solider/pasted__body/polySurface2/transform2
+        weight: 0
+      - path: Actual_Solider/pasted__body/transform1
+        weight: 0
+      - path: Actual_Solider/pasted__boots
+        weight: 0
+      - path: Actual_Solider/pasted__hands
+        weight: 0
+      - path: Actual_Solider/pasted__head
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__hands
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere1
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere2
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere3
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere4
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere5
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere6
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere7
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pSphere2
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pSphere3
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pasted__pasted__pSphere4
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pasted__pSphere1
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pasted__pSphere3
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pasted__pSphere4
+        weight: 0
+      - path: Actual_Solider/pasted__pasted__pSphere1
+        weight: 0
+      - path: Actual_Solider/pasted__pCylinder1
+        weight: 0
+      - path: Actual_Solider/pasted__pCylinder2
+        weight: 0
+      - path: Actual_Solider/pSphere1
+        weight: 0
+      - path: group
+        weight: 0
+      - path: group/pasted__Actual_Solider
+        weight: 0
+      - path: group/pasted__Actual_Solider/pasted__pasted__pasted__pasted__pasted__pSphere8
+        weight: 0
+      - path: group1
+        weight: 0
+      - path: group1/pasted__group
+        weight: 0
+      - path: group1/pasted__group/pasted__pasted__Actual_Solider
+        weight: 0
+      - path: group1/pasted__group/pasted__pasted__Actual_Solider/pasted__pasted__pasted__pasted__pasted__pasted__pSphere2
+        weight: 0
+      - path: Hips
+        weight: 1
+      - path: Hips/LeftUpLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: Hips/LeftUpLeg/LeftLeg/LeftFoot/L_Toe1
+        weight: 1
+      - path: Hips/RightUpLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: Hips/RightUpLeg/RightLeg/RightFoot/R_Toe
+        weight: 1
+      - path: Hips/Spine
+        weight: 1
+      - path: Hips/Spine/Chest
+        weight: 1
+      - path: Hips/Spine/Chest/LeftArm
+        weight: 1
+      - path: Hips/Spine/Chest/LeftArm/LeftForeArm
+        weight: 1
+      - path: Hips/Spine/Chest/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: Hips/Spine/Chest/LeftArm/LeftForeArm/LeftHand/L_Hand
+        weight: 0
+      - path: Hips/Spine/Chest/Neck
+        weight: 1
+      - path: Hips/Spine/Chest/Neck/Head
+        weight: 1
+      - path: Hips/Spine/Chest/RightArm
+        weight: 1
+      - path: Hips/Spine/Chest/RightArm/RightForeArm
+        weight: 1
+      - path: Hips/Spine/Chest/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: Hips/Spine/Chest/RightArm/RightForeArm/RightHand/R_Hand
+        weight: 0
+      - path: OWL:optical
+        weight: 0
+      - path: OWL:optical/OWL:optical:M000
+        weight: 0
+      - path: OWL:optical/OWL:optical:M001
+        weight: 0
+      - path: OWL:optical/OWL:optical:M002
+        weight: 0
+      - path: OWL:optical/OWL:optical:M003
+        weight: 0
+      - path: OWL:optical/OWL:optical:M004
+        weight: 0
+      - path: OWL:optical/OWL:optical:M005
+        weight: 0
+      - path: OWL:optical/OWL:optical:M006
+        weight: 0
+      - path: OWL:optical/OWL:optical:M007
+        weight: 0
+      - path: OWL:optical/OWL:optical:M008
+        weight: 0
+      - path: OWL:optical/OWL:optical:M009
+        weight: 0
+      - path: OWL:optical/OWL:optical:M010
+        weight: 0
+      - path: OWL:optical/OWL:optical:M011
+        weight: 0
+      - path: OWL:optical/OWL:optical:M012
+        weight: 0
+      - path: OWL:optical/OWL:optical:M013
+        weight: 0
+      - path: OWL:optical/OWL:optical:M014
+        weight: 0
+      - path: OWL:optical/OWL:optical:M015
+        weight: 0
+      - path: OWL:optical/OWL:optical:M016
+        weight: 0
+      - path: OWL:optical/OWL:optical:M017
+        weight: 0
+      - path: OWL:optical/OWL:optical:M018
+        weight: 0
+      - path: OWL:optical/OWL:optical:M019
+        weight: 0
+      - path: OWL:optical/OWL:optical:M020
+        weight: 0
+      - path: OWL:optical/OWL:optical:M021
+        weight: 0
+      - path: OWL:optical/OWL:optical:M022
+        weight: 0
+      - path: OWL:optical/OWL:optical:M023
+        weight: 0
+      - path: OWL:optical/OWL:optical:M024
+        weight: 0
+      - path: OWL:optical/OWL:optical:M025
+        weight: 0
+      - path: OWL:optical/OWL:optical:M026
+        weight: 0
+      - path: OWL:optical/OWL:optical:M027
+        weight: 0
+      - path: OWL:optical/OWL:optical:M028
+        weight: 0
+      - path: OWL:optical/OWL:optical:M029
+        weight: 0
+      - path: OWL:optical/OWL:optical:M030
+        weight: 0
+      - path: OWL:optical/OWL:optical:M031
+        weight: 0
+      - path: OWL:optical/OWL:optical:M032
+        weight: 0
+      - path: OWL:optical/OWL:optical:M033
+        weight: 0
+      - path: OWL:optical/OWL:optical:M034
+        weight: 0
+      - path: OWL:optical/OWL:optical:M035
+        weight: 0
+      - path: OWL:optical/OWL:optical:M036
+        weight: 0
+      - path: OWL:optical/OWL:optical:M037
+        weight: 0
+      - path: OWL:optical/OWL:optical:M038
+        weight: 0
+      - path: OWL:optical/OWL:optical:M039
+        weight: 0
+      - path: OWL:optical/OWL:optical:M040
+        weight: 0
+      - path: OWL:optical/OWL:optical:M041
+        weight: 0
+      - path: OWL:optical/OWL:optical:M042
+        weight: 0
+      - path: OWL:optical/OWL:optical:M043
+        weight: 0
+      - path: OWL:optical/OWL:optical:M044
+        weight: 0
+      - path: OWL:optical/OWL:optical:M045
+        weight: 0
+      - path: OWL:optical/OWL:optical:M046
+        weight: 0
+      - path: OWL:optical/OWL:optical:M047
+        weight: 0
+      - path: OWL:optical/OWL:optical:M048
+        weight: 0
+      - path: OWL:optical/OWL:optical:M049
+        weight: 0
+      - path: OWL:optical/OWL:optical:M050
+        weight: 0
+      - path: OWL:optical/OWL:optical:M051
+        weight: 0
+      - path: OWL:optical/OWL:optical:M052
+        weight: 0
+      - path: OWL:optical/OWL:optical:M053
+        weight: 0
+      - path: OWL:optical/OWL:optical:M054
+        weight: 0
+      - path: OWL:optical/OWL:optical:M055
+        weight: 0
+      - path: OWL:optical/OWL:optical:M056
+        weight: 0
+      - path: OWL:optical/OWL:optical:M057
+        weight: 0
+      - path: OWL:optical/OWL:optical:M058
+        weight: 0
+      - path: OWL:optical/OWL:optical:M059
+        weight: 0
+      - path: OWL:optical/OWL:optical:M060
+        weight: 0
+      - path: OWL:optical/OWL:optical:M061
+        weight: 0
+      - path: OWL:optical/OWL:optical:M062
+        weight: 0
+      - path: OWL:optical/OWL:optical:M063
+        weight: 0
+      - path: OWL:optical/OWL:optical:M064
+        weight: 0
+      - path: OWL:optical/OWL:optical:M065
+        weight: 0
+      - path: OWL:optical/OWL:optical:M066
+        weight: 0
+      - path: OWL:optical/OWL:optical:M067
+        weight: 0
+      - path: OWL:optical/OWL:optical:M068
+        weight: 0
+      - path: OWL:optical/OWL:optical:M069
+        weight: 0
+      - path: OWL:optical/OWL:optical:M070
+        weight: 0
+      - path: OWL:optical/OWL:optical:M071
+        weight: 0
+      - path: OWL:optical/OWL:optical:M072
+        weight: 0
+      - path: OWL:optical/OWL:optical:M073
+        weight: 0
+      - path: OWL:optical/OWL:optical:M074
+        weight: 0
+      - path: OWL:optical/OWL:optical:M075
+        weight: 0
+      - path: OWL:optical/OWL:optical:M076
+        weight: 0
+      - path: OWL:optical/OWL:optical:M077
+        weight: 0
+      - path: OWL:optical/OWL:optical:M078
+        weight: 0
+      - path: OWL:optical/OWL:optical:M079
+        weight: 0
+      - path: OWL:optical/OWL:optical:M080
+        weight: 0
+      - path: OWL:optical/OWL:optical:M081
+        weight: 0
+      - path: OWL:optical/OWL:optical:M082
+        weight: 0
+      - path: OWL:optical/OWL:optical:M083
+        weight: 0
+      - path: OWL:optical/OWL:optical:M084
+        weight: 0
+      - path: OWL:optical/OWL:optical:M085
+        weight: 0
+      - path: OWL:optical/OWL:optical:M086
+        weight: 0
+      - path: OWL:optical/OWL:optical:M087
+        weight: 0
+      - path: OWL:optical/OWL:optical:M088
+        weight: 0
+      - path: OWL:optical/OWL:optical:M089
+        weight: 0
+      - path: OWL:optical/OWL:optical:M090
+        weight: 0
+      - path: OWL:optical/OWL:optical:M091
+        weight: 0
+      - path: OWL:optical/OWL:optical:M092
+        weight: 0
+      - path: OWL:optical/OWL:optical:M093
+        weight: 0
+      - path: OWL:optical/OWL:optical:M094
+        weight: 0
+      - path: OWL:optical/OWL:optical:M095
+        weight: 0
+      - path: OWL:optical/OWL:optical:M096
+        weight: 0
+      - path: OWL:optical/OWL:optical:M097
+        weight: 0
+      - path: OWL:optical/OWL:optical:M098
+        weight: 0
+      - path: OWL:optical/OWL:optical:M099
+        weight: 0
+      - path: OWL:optical/OWL:optical:M100
+        weight: 0
+      - path: OWL:optical/OWL:optical:M101
+        weight: 0
+      - path: OWL:optical/OWL:optical:M102
+        weight: 0
+      - path: OWL:optical/OWL:optical:M103
+        weight: 0
+      - path: OWL:optical/OWL:optical:M104
+        weight: 0
+      - path: OWL:optical/OWL:optical:M105
+        weight: 0
+      - path: OWL:optical/OWL:optical:M106
+        weight: 0
+      - path: OWL:optical/OWL:optical:M107
+        weight: 0
+      - path: OWL:optical/OWL:optical:M108
+        weight: 0
+      - path: OWL:optical/OWL:optical:M109
+        weight: 0
+      - path: OWL:optical/OWL:optical:M110
+        weight: 0
+      - path: OWL:optical/OWL:optical:M111
+        weight: 0
+      - path: OWL:optical/OWL:optical:M112
+        weight: 0
+      - path: OWL:optical/OWL:optical:M113
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Toe1
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Toe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: looking_animation(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Actual_Solider
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__body
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface2
+      position: {x: -.00062617776, y: .154789641, z: .0272043217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface3
+      position: {x: .00062617776, y: -.156095698, z: -.0272043217}
+      rotation: {x: -.030129306, y: 0, z: -0, w: .999546051}
+      scale: {x: .711328268, y: 1, z: .839023948}
+      transformModified: 1
+    - name: polySurface4
+      position: {x: .00062617776, y: -.154789641, z: -.0272043217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface5
+      position: {x: -0, y: .00136844884, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.07231617, y: 1.07231617, z: 1.07231617}
+      transformModified: 1
+    - name: polySurface6
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pCube1
+      position: {x: .0320169888, y: .285520196, z: .0127017694}
+      rotation: {x: -.0527558848, y: -.00429788558, z: -.0831749737, w: .995128274}
+      scale: {x: .473586828, y: .324458897, z: .437402368}
+      transformModified: 1
+    - name: pCube2
+      position: {x: -.0351984315, y: .285520196, z: .0143954037}
+      rotation: {x: -.0412098356, y: -.0129043898, z: .047704272, w: .997927606}
+      scale: {x: .473586828, y: .324458897, z: -.437402368}
+      transformModified: 1
+    - name: transform3
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform2
+      position: {x: .00062617776, y: -.154789641, z: -.0272043217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: transform1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__boots
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__hands
+      position: {x: .00490071718, y: .0104015348, z: -.000803214381}
+      rotation: {x: -.0092960624, y: .999346733, z: .000760511146, w: .0349164866}
+      scale: {x: 1, y: 1, z: -1}
+      transformModified: 1
+    - name: pasted__head
+      position: {x: .000942951476, y: 1.06581408e-16, z: -.0041585695}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__hands
+      position: {x: 8.67361719e-21, y: .000809920428, z: 0}
+      rotation: {x: .000144872392, y: .0311637279, z: .00932599418, w: .99947077}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: .0103160655, y: .21362403, z: .0508120395}
+      rotation: {x: -.714074552, y: .0757507905, z: -.103015825, w: .68829298}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: .0166363418, y: .244649142, z: .0473958775}
+      rotation: {x: -.811906278, y: .0900518075, z: .019969685, w: .576454759}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pSphere2
+      position: {x: -.0202873014, y: .234772891, z: .0438088328}
+      rotation: {x: .910080671, y: -.0843047425, z: -.0374276191, w: -.404036015}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pSphere3
+      position: {x: -.0179988239, y: .223127767, z: .0438088328}
+      rotation: {x: -.808139801, y: -.0185590163, z: -.0606983639, w: .585560799}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pSphere4
+      position: {x: .0128708016, y: .223127767, z: .0492710583}
+      rotation: {x: -.714074552, y: .0757507905, z: -.103015825, w: .68829298}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pSphere5
+      position: {x: .00911538303, y: .203904092, z: .051389765}
+      rotation: {x: -.714074552, y: .0757507905, z: -.103015825, w: .68829298}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pSphere6
+      position: {x: -.0170958992, y: .21362403, z: .0456398949}
+      rotation: {x: -.714074552, y: .0757507905, z: -.103015825, w: .68829298}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pSphere7
+      position: {x: .0211708229, y: .274586052, z: .0363883115}
+      rotation: {x: .910080671, y: -.0843047425, z: -.0374276191, w: -.404036015}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pSphere2
+      position: {x: -.0170958992, y: .203904092, z: .0484506153}
+      rotation: {x: -.714074552, y: .0757507905, z: -.103015825, w: .68829298}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pSphere3
+      position: {x: .0188885201, y: .254059702, z: .0457124785}
+      rotation: {x: -.811906278, y: .0900518075, z: .019969685, w: .576454759}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pSphere4
+      position: {x: .0148146264, y: .234668881, z: .0485921949}
+      rotation: {x: -.811906278, y: .0900518075, z: .019969685, w: .576454759}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pSphere1
+      position: {x: -.0235996582, y: .26277104, z: .0377998352}
+      rotation: {x: .910080671, y: -.0843047425, z: -.0374276191, w: -.404036015}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pSphere3
+      position: {x: .0200522132, y: .264417082, z: .0408700183}
+      rotation: {x: .873810351, y: -.0870946422, z: -.0303749982, w: -.477438301}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pSphere4
+      position: {x: -.0220915526, y: .244649142, z: .0426983051}
+      rotation: {x: -.811906278, y: .0900518075, z: .019969685, w: .576454759}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pasted__pSphere1
+      position: {x: -.0238385797, y: .254059702, z: .0414811373}
+      rotation: {x: -.811906278, y: .0900518075, z: .019969685, w: .576454759}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: pasted__pCylinder1
+      position: {x: .000734809262, y: .332138002, z: .0162188001}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .610628188, y: .0219729058, z: .730366766}
+      transformModified: 1
+    - name: pasted__pCylinder2
+      position: {x: .000734809262, y: .332137704, z: .0162188001}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .579938233, y: .531933308, z: .693658769}
+      transformModified: 1
+    - name: pSphere1
+      position: {x: .00103256898, y: .325687796, z: .0295930728}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: .531933308, y: 1, z: .531933308}
+      transformModified: 1
+    - name: group
+      position: {x: -.0762744769, y: .841181517, z: .104635715}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__Actual_Solider
+      position: {x: .0762744769, y: -.841181517, z: -.104635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pSphere8
+      position: {x: .00234855385, y: .187733844, z: -.00576949399}
+      rotation: {x: -.674904764, y: .0922352076, z: .000885059417, w: .732117116}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: group1
+      position: {x: -.0762744769, y: .841181517, z: .104635715}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__group
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: pasted__pasted__Actual_Solider
+      position: {x: .0762744769, y: -.841181517, z: -.104635715}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 3.08205438, y: 3.08205438, z: 3.08205438}
+      transformModified: 1
+    - name: pasted__pasted__pasted__pasted__pasted__pasted__pSphere2
+      position: {x: -.0247479361, y: .272928834, z: .0339499898}
+      rotation: {x: -.803394556, y: .0903340504, z: .0186514258, w: .588259339}
+      scale: {x: .371966243, y: .236138999, z: .350710899}
+      transformModified: 1
+    - name: Hips
+      position: {x: -.000799976988, y: .507905245, z: .0442659333}
+      rotation: {x: -5.5404672e-09, y: 1.40562779e-08, z: .366704762, w: .930337369}
+      scale: {x: .999999881, y: .999999702, z: 1}
+      transformModified: 1
+    - name: LeftUpLeg
+      position: {x: -.0801720396, y: -.00135706528, z: 8.75326478e-09}
+      rotation: {x: 2.02617336e-08, y: -1.92324734e-08, z: -.933660865, w: .358158499}
+      scale: {x: .999999583, y: .999999762, z: 1.00000012}
+      transformModified: 1
+    - name: LeftLeg
+      position: {x: .15973711, y: 8.50114361e-08, z: .01124606}
+      rotation: {x: -1.50788786e-08, y: -7.8451684e-10, z: -.0226351097, w: .999743879}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: LeftFoot
+      position: {x: .259166181, y: .00244784914, z: -.0277843997}
+      rotation: {x: -4.53260895e-08, y: -1.09926912e-09, z: .0164407622, w: .999864876}
+      scale: {x: 1, y: .999999881, z: 1}
+      transformModified: 1
+    - name: L_Toe1
+      position: {x: .0235242993, y: -.00164545549, z: .0833531767}
+      rotation: {x: -1.79792359e-08, y: -4.58335201e-08, z: .97208041, w: -.234648123}
+      scale: {x: 1, y: .999999702, z: 1}
+      transformModified: 1
+    - name: RightUpLeg
+      position: {x: .0027144677, y: -.0787179768, z: 8.20247689e-11}
+      rotation: {x: -1.04387121e-08, y: -1.5110146e-08, z: .470272571, w: .882521212}
+      scale: {x: 1.00000072, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: RightLeg
+      position: {x: -.159736812, y: -9.91706184e-09, z: .0112460591}
+      rotation: {x: 3.76554521e-09, y: -3.86532917e-10, z: -.0226349477, w: .999743819}
+      scale: {x: 1, y: 1.00000048, z: 1}
+      transformModified: 1
+    - name: RightFoot
+      position: {x: -.259208322, y: .00210810592, z: -.0277843904}
+      rotation: {x: -9.32528499e-10, y: 2.20518173e-10, z: .016440684, w: .999864876}
+      scale: {x: 1.00000012, y: .999999881, z: .999999881}
+      transformModified: 1
+    - name: R_Toe
+      position: {x: -.0236205366, y: -.00242140377, z: .0833531395}
+      rotation: {x: -7.04262704e-10, y: -1.66183303e-10, z: -.97208041, w: .234648123}
+      scale: {x: 1.00000072, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Spine
+      position: {x: .047502175, y: .0508954637, z: -2.28988895e-09}
+      rotation: {x: -1.23477803e-05, y: -5.37539745e-06, z: -.917147338, w: .398548454}
+      scale: {x: 1.00000012, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Chest
+      position: {x: -.151172623, y: -7.48838946e-09, z: -.0231495742}
+      rotation: {x: .999949872, y: -.00999847427, z: -1.34703869e-05, w: -1.34690069e-07}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LeftArm
+      position: {x: -.0690797716, y: .129443303, z: -2.64667097e-08}
+      rotation: {x: -.652787626, y: .747526348, z: -.0589693822, w: .107681669}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LeftForeArm
+      position: {x: -.131020814, y: .0143333524, z: .0081548905}
+      rotation: {x: .00202105637, y: .0308928378, z: -.0601305701, w: .997710168}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: LeftHand
+      position: {x: -.13929458, y: -1.42108544e-16, z: 0}
+      rotation: {x: .0054936409, y: .000161400952, z: -.0843015835, w: .996425092}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: L_Hand
+      position: {x: -.0716566145, y: -.00282206479, z: 1.96898979e-17}
+      rotation: {x: -.0056769955, y: .00023613224, z: .0415579714, w: .999119937}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Neck
+      position: {x: -.113024183, y: .000270962977, z: -.0216300506}
+      rotation: {x: .122512043, y: -.187685147, z: -.135636672, w: .965073824}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Head
+      position: {x: -.0744992048, y: -.000779618393, z: .00328667415}
+      rotation: {x: -.680957556, y: .714356065, z: .161215723, w: -.00129682}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RightArm
+      position: {x: -.0742205232, y: -.125033975, z: 2.85602173e-08}
+      rotation: {x: -.193101346, y: -.0630973727, z: .70032531, w: .684306204}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RightForeArm
+      position: {x: -.117659897, y: .00606859196, z: -.0219786186}
+      rotation: {x: -.0578437932, y: -.0526589639, z: -.0239556059, w: .996648014}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: RightHand
+      position: {x: -.137883559, y: -.00286482507, z: -.0141116353}
+      rotation: {x: -.000898464816, y: -.0153730325, z: -.0151287951, w: .999766827}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: R_Hand
+      position: {x: -.0674798265, y: -.00669041835, z: -.00566397235}
+      rotation: {x: 0, y: 0, z: .0415586457, w: .99913609}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical
+      position: {x: 0, y: .93431294, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M000
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M002
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M003
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M004
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M005
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M006
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M007
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M008
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M009
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M010
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M011
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M012
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M013
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M014
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M015
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M016
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M017
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M018
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M019
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M020
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M021
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M022
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M023
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M024
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M025
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M026
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M027
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M028
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M029
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M030
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M031
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M032
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M033
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M034
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M035
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M036
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M037
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M038
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M039
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M040
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M041
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M042
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M043
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M044
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M045
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M046
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M047
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M048
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M049
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.14999998, y: 1.14999998, z: 1.14999998}
+      transformModified: 1
+    - name: OWL:optical:M050
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M051
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M052
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M053
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M054
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M055
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M056
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M057
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M058
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M059
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M060
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M061
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M062
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M063
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M064
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M065
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M066
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M067
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M068
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M069
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M070
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M071
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M072
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M073
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M074
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M075
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M076
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M077
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M078
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M079
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M080
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M081
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M082
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M083
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M084
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M085
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M086
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M087
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M088
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M089
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M090
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M091
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M092
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M093
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M094
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M095
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M096
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M097
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M098
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M099
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M100
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M101
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M102
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M103
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M104
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M105
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M106
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M107
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M108
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M109
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M110
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M111
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M112
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: OWL:optical:M113
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  userData: 

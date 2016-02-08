@@ -1,0 +1,1199 @@
+fileFormatVersion: 2
+guid: 0b8ce0a4aa152484f9ec6aa6010f9891
+timeCreated: 1454960967
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Soldier:Actual_Solider
+    100004: Soldier:Chest
+    100006: Soldier:group
+    100008: Soldier:group1
+    100010: Soldier:Head
+    100012: Soldier:hip
+    100014: Soldier:Left1Finger1
+    100016: Soldier:Left1Finger2
+    100018: Soldier:Left1Finger3
+    100020: Soldier:Left2Finger1
+    100022: Soldier:Left2Finger2
+    100024: Soldier:Left2Finger3
+    100026: Soldier:Left3Finger1
+    100028: Soldier:Left3Finger2
+    100030: Soldier:Left3Finger3
+    100032: Soldier:Left4Finger1
+    100034: Soldier:Left4Finger2
+    100036: Soldier:Left4Finger3
+    100038: Soldier:Left5Finger1
+    100040: Soldier:Left5Finger2
+    100042: Soldier:Left5Finger3
+    100044: Soldier:LeftFoot
+    100046: Soldier:LeftHand
+    100048: Soldier:LeftLowerArm
+    100050: Soldier:LeftLowerLeg
+    100052: Soldier:LeftShoulder
+    100054: Soldier:LeftToe
+    100056: Soldier:LeftUpperArm
+    100058: Soldier:LeftUpperLeg
+    100060: Soldier:Neck
+    100062: Soldier:pasted__Actual_Solider
+    100064: Soldier:pasted__body
+    100066: Soldier:pasted__boots
+    100068: Soldier:pasted__group
+    100070: Soldier:pasted__hands
+    100072: Soldier:pasted__head
+    100074: Soldier:pasted__pasted__Actual_Solider
+    100076: Soldier:pasted__pasted__hands
+    100078: Soldier:pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    100080: Soldier:pasted__pasted__pasted__pasted__pasted__pasted__pSphere1 1
+    100082: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere1
+    100084: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere1 1
+    100086: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere2
+    100088: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere3
+    100090: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere4
+    100092: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere5
+    100094: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere6
+    100096: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere7
+    100098: Soldier:pasted__pasted__pasted__pasted__pSphere2
+    100100: Soldier:pasted__pasted__pasted__pasted__pSphere3
+    100102: Soldier:pasted__pasted__pasted__pasted__pSphere4
+    100104: Soldier:pasted__pasted__pasted__pSphere1
+    100106: Soldier:pasted__pasted__pasted__pSphere2
+    100108: Soldier:pasted__pasted__pasted__pSphere3
+    100110: Soldier:pasted__pasted__pasted__pSphere4
+    100112: Soldier:pasted__pasted__pSphere1
+    100114: Soldier:pasted__pCylinder1
+    100116: Soldier:pasted__pCylinder2
+    100118: Soldier:pCube1
+    100120: Soldier:pCube2
+    100122: Soldier:polySurface2
+    100124: Soldier:polySurface3
+    100126: Soldier:polySurface4
+    100128: Soldier:polySurface5
+    100130: Soldier:polySurface6
+    100132: Soldier:pSphere1
+    100134: Soldier:Right1Finger1
+    100136: Soldier:Right1Finger2
+    100138: Soldier:Right1Finger3
+    100140: Soldier:Right2Finger1
+    100142: Soldier:Right2Finger2
+    100144: Soldier:Right2Finger3
+    100146: Soldier:Right3Finger1
+    100148: Soldier:Right3Finger2
+    100150: Soldier:Right3Finger3
+    100152: Soldier:Right4Finger1
+    100154: Soldier:Right4Finger2
+    100156: Soldier:Right4Finger3
+    100158: Soldier:Right5Finger1
+    100160: Soldier:Right5Finger2
+    100162: Soldier:Right5Finger3
+    100164: Soldier:RightFoot
+    100166: Soldier:RightHand
+    100168: Soldier:RightLowerArm
+    100170: Soldier:RightLowerLeg
+    100172: Soldier:RightShoulder
+    100174: Soldier:RightToe
+    100176: Soldier:RightUpperArm
+    100178: Soldier:RightUpperLeg
+    100180: Soldier:Spine
+    100182: Soldier:transform1
+    100184: Soldier:transform2
+    100186: Soldier:transform3
+    400000: //RootNode
+    400002: Soldier:Actual_Solider
+    400004: Soldier:Chest
+    400006: Soldier:group
+    400008: Soldier:group1
+    400010: Soldier:Head
+    400012: Soldier:hip
+    400014: Soldier:Left1Finger1
+    400016: Soldier:Left1Finger2
+    400018: Soldier:Left1Finger3
+    400020: Soldier:Left2Finger1
+    400022: Soldier:Left2Finger2
+    400024: Soldier:Left2Finger3
+    400026: Soldier:Left3Finger1
+    400028: Soldier:Left3Finger2
+    400030: Soldier:Left3Finger3
+    400032: Soldier:Left4Finger1
+    400034: Soldier:Left4Finger2
+    400036: Soldier:Left4Finger3
+    400038: Soldier:Left5Finger1
+    400040: Soldier:Left5Finger2
+    400042: Soldier:Left5Finger3
+    400044: Soldier:LeftFoot
+    400046: Soldier:LeftHand
+    400048: Soldier:LeftLowerArm
+    400050: Soldier:LeftLowerLeg
+    400052: Soldier:LeftShoulder
+    400054: Soldier:LeftToe
+    400056: Soldier:LeftUpperArm
+    400058: Soldier:LeftUpperLeg
+    400060: Soldier:Neck
+    400062: Soldier:pasted__Actual_Solider
+    400064: Soldier:pasted__body
+    400066: Soldier:pasted__boots
+    400068: Soldier:pasted__group
+    400070: Soldier:pasted__hands
+    400072: Soldier:pasted__head
+    400074: Soldier:pasted__pasted__Actual_Solider
+    400076: Soldier:pasted__pasted__hands
+    400078: Soldier:pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    400080: Soldier:pasted__pasted__pasted__pasted__pasted__pasted__pSphere1 1
+    400082: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere1
+    400084: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere1 1
+    400086: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere2
+    400088: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere3
+    400090: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere4
+    400092: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere5
+    400094: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere6
+    400096: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere7
+    400098: Soldier:pasted__pasted__pasted__pasted__pSphere2
+    400100: Soldier:pasted__pasted__pasted__pasted__pSphere3
+    400102: Soldier:pasted__pasted__pasted__pasted__pSphere4
+    400104: Soldier:pasted__pasted__pasted__pSphere1
+    400106: Soldier:pasted__pasted__pasted__pSphere2
+    400108: Soldier:pasted__pasted__pasted__pSphere3
+    400110: Soldier:pasted__pasted__pasted__pSphere4
+    400112: Soldier:pasted__pasted__pSphere1
+    400114: Soldier:pasted__pCylinder1
+    400116: Soldier:pasted__pCylinder2
+    400118: Soldier:pCube1
+    400120: Soldier:pCube2
+    400122: Soldier:polySurface2
+    400124: Soldier:polySurface3
+    400126: Soldier:polySurface4
+    400128: Soldier:polySurface5
+    400130: Soldier:polySurface6
+    400132: Soldier:pSphere1
+    400134: Soldier:Right1Finger1
+    400136: Soldier:Right1Finger2
+    400138: Soldier:Right1Finger3
+    400140: Soldier:Right2Finger1
+    400142: Soldier:Right2Finger2
+    400144: Soldier:Right2Finger3
+    400146: Soldier:Right3Finger1
+    400148: Soldier:Right3Finger2
+    400150: Soldier:Right3Finger3
+    400152: Soldier:Right4Finger1
+    400154: Soldier:Right4Finger2
+    400156: Soldier:Right4Finger3
+    400158: Soldier:Right5Finger1
+    400160: Soldier:Right5Finger2
+    400162: Soldier:Right5Finger3
+    400164: Soldier:RightFoot
+    400166: Soldier:RightHand
+    400168: Soldier:RightLowerArm
+    400170: Soldier:RightLowerLeg
+    400172: Soldier:RightShoulder
+    400174: Soldier:RightToe
+    400176: Soldier:RightUpperArm
+    400178: Soldier:RightUpperLeg
+    400180: Soldier:Spine
+    400182: Soldier:transform1
+    400184: Soldier:transform2
+    400186: Soldier:transform3
+    4300000: Soldier:pasted__head
+    4300002: Soldier:polySurface3
+    4300004: Soldier:polySurface5
+    4300006: Soldier:polySurface6
+    4300008: Soldier:pCube2
+    4300010: Soldier:pCube1
+    4300012: Soldier:pasted__boots
+    4300014: Soldier:pasted__pasted__pSphere1
+    4300016: Soldier:pasted__pasted__pasted__pSphere1
+    4300018: Soldier:pasted__pasted__pasted__pSphere2
+    4300020: Soldier:pasted__pasted__pasted__pasted__pSphere2
+    4300022: Soldier:pasted__pasted__pasted__pSphere3
+    4300024: Soldier:pasted__pasted__pasted__pSphere4
+    4300026: Soldier:pasted__pasted__pasted__pasted__pSphere3
+    4300028: Soldier:pasted__pasted__pasted__pasted__pSphere4
+    4300030: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300032: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere2
+    4300034: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere3
+    4300036: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere4
+    4300038: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere5
+    4300040: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere6
+    4300042: Soldier:pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300044: Soldier:pasted__pCylinder1
+    4300046: Soldier:pSphere1
+    4300048: Soldier:pasted__pCylinder2
+    4300050: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere7
+    4300052: Soldier:pasted__hands
+    4300054: Soldier:pasted__pasted__hands
+    4300056: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere1
+    4300058: Soldier:pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Soldier:pasted__boots
+    13700002: Soldier:pasted__hands
+    13700004: Soldier:pasted__head
+    13700006: Soldier:pasted__pasted__hands
+    13700008: Soldier:pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700010: Soldier:pasted__pasted__pasted__pasted__pasted__pasted__pSphere1 1
+    13700012: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere1
+    13700014: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere1 1
+    13700016: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere2
+    13700018: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere3
+    13700020: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere4
+    13700022: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere5
+    13700024: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere6
+    13700026: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere7
+    13700028: Soldier:pasted__pasted__pasted__pasted__pSphere2
+    13700030: Soldier:pasted__pasted__pasted__pasted__pSphere3
+    13700032: Soldier:pasted__pasted__pasted__pasted__pSphere4
+    13700034: Soldier:pasted__pasted__pasted__pSphere1
+    13700036: Soldier:pasted__pasted__pasted__pSphere2
+    13700038: Soldier:pasted__pasted__pasted__pSphere3
+    13700040: Soldier:pasted__pasted__pasted__pSphere4
+    13700042: Soldier:pasted__pasted__pSphere1
+    13700044: Soldier:pasted__pCylinder1
+    13700046: Soldier:pasted__pCylinder2
+    13700048: Soldier:pCube1
+    13700050: Soldier:pCube2
+    13700052: Soldier:polySurface3
+    13700054: Soldier:polySurface5
+    13700056: Soldier:polySurface6
+    13700058: Soldier:pSphere1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 50
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Soldier:hip
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:LeftUpperLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:RightUpperLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:LeftLowerLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:RightLowerLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:LeftUpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:RightUpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:LeftLowerArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:RightLowerArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:LeftToe
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:RightToe
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left1Finger1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left1Finger2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left1Finger3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left2Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left2Finger2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left2Finger3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left3Finger1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left3Finger2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left3Finger3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left4Finger1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left4Finger2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left4Finger3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left5Finger1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left5Finger2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Left5Finger3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right1Finger1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right1Finger2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right1Finger3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right2Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right2Finger2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right2Finger3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right3Finger1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right3Finger2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right3Finger3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right4Finger1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right4Finger2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right4Finger3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right5Finger1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right5Finger2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Soldier:Right5Finger3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: soldier(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Actual_Solider
+      position: {x: 0, y: -0.31554875, z: 0}
+      rotation: {x: 1.110223e-16, y: -0, z: 0, w: 1}
+      scale: {x: 0.23061915, y: 0.23061915, z: 0.23061915}
+      transformModified: 1
+    - name: Soldier:group
+      position: {x: -5.639933e-16, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.3244589, y: 0.3244589, z: 0.3244589}
+      transformModified: 1
+    - name: Soldier:pasted__Actual_Solider
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 3.0820544, y: 3.0820544, z: 3.0820544}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere1 1
+      position: {x: 0.2982663, y: 23.842192, z: -0.7327257}
+      rotation: {x: -0.67490476, y: 0.09223521, z: 0.0008850627, w: 0.7321171}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:group1
+      position: {x: -5.639933e-16, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.3244589, y: 0.3244589, z: 0.3244589}
+      transformModified: 1
+    - name: Soldier:pasted__group
+      position: {x: -9.686858, y: 106.830055, z: 13.288735}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__Actual_Solider
+      position: {x: 9.686859, y: -106.830055, z: -13.288735}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 3.0820544, y: 3.0820544, z: 3.0820544}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pasted__pasted__pasted__pSphere1 1
+      position: {x: -3.142988, y: 34.661964, z: 4.311649}
+      rotation: {x: -0.8033946, y: 0.09033406, z: 0.01865143, w: 0.5882594}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__body
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:polySurface2
+      position: {x: -0.07952458, y: 19.658287, z: 3.454949}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:polySurface3
+      position: {x: 0.12634464, y: 16.63133, z: -1.9778584}
+      rotation: {x: -0.030129304, y: 0, z: -0, w: 0.99954605}
+      scale: {x: 0.71132827, y: 1, z: 0.83902395}
+      transformModified: 1
+    - name: Soldier:polySurface4
+      position: {x: 0.07952458, y: -19.658287, z: -3.454949}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:polySurface5
+      position: {x: 0.23190369, y: 24.744015, z: 3.1849196}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0723162, y: 1.0723162, z: 1.0723162}
+      transformModified: 1
+    - name: Soldier:polySurface6
+      position: {x: -0.07952458, y: 19.658287, z: 3.454949}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:pCube1
+      position: {x: 4.1456823, y: 16.602781, z: -1.8418238}
+      rotation: {x: -0.052755885, y: -0.0042978856, z: -0.08317497, w: 0.9951283}
+      scale: {x: 0.47358683, y: 0.3244589, z: 0.43740237}
+      transformModified: 1
+    - name: Soldier:pCube2
+      position: {x: -4.390676, y: 16.602781, z: -1.6267323}
+      rotation: {x: -0.041209836, y: -0.01290439, z: 0.04770427, w: 0.9979276}
+      scale: {x: 0.47358683, y: 0.3244589, z: -0.43740237}
+      transformModified: 1
+    - name: Soldier:transform3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:transform2
+      position: {x: 0.07952458, y: -19.658287, z: -3.454949}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:transform1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:pasted__boots
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:pasted__hands
+      position: {x: 0.62239116, y: 1.320995, z: -0.10200822}
+      rotation: {x: -0.009296062, y: 0.99934673, z: 0.00076051056, w: 0.034916427}
+      scale: {x: 1, y: 1, z: -1}
+      transformModified: 1
+    - name: Soldier:pasted__head
+      position: {x: 0.11975484, y: 39.116634, z: 2.2775152}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__hands
+      position: {x: 1.1015494e-18, y: 0.10285989, z: 0}
+      rotation: {x: 0.00014487235, y: 0.031163732, z: 0.009325995, w: 0.9994708}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: 1.3101403, y: 27.130253, z: 6.453129}
+      rotation: {x: -0.71407455, y: 0.07575079, z: -0.10301583, w: 0.688293}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere1
+      position: {x: 2.1128156, y: 31.070438, z: 6.019277}
+      rotation: {x: -0.8119063, y: 0.09005181, z: 0.019969685, w: 0.57645476}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere2
+      position: {x: -2.5764873, y: 29.816156, z: 5.5637217}
+      rotation: {x: 0.9100807, y: -0.08430474, z: -0.037427627, w: -0.40403596}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere3
+      position: {x: -2.2858505, y: 28.337221, z: 5.5637217}
+      rotation: {x: -0.8081398, y: -0.018559016, z: -0.06069836, w: 0.58556074}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere4
+      position: {x: 1.6345918, y: 28.337221, z: 6.2574244}
+      rotation: {x: -0.71407455, y: 0.07575079, z: -0.10301583, w: 0.688293}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere5
+      position: {x: 1.1576538, y: 25.895819, z: 6.5265007}
+      rotation: {x: -0.71407455, y: 0.07575079, z: -0.10301583, w: 0.688293}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere6
+      position: {x: -2.1711793, y: 27.130253, z: 5.7962666}
+      rotation: {x: -0.71407455, y: 0.07575079, z: -0.10301583, w: 0.688293}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pasted__pasted__pSphere7
+      position: {x: 2.6886945, y: 34.87243, z: 4.6213155}
+      rotation: {x: 0.9100807, y: -0.08430474, z: -0.037427627, w: -0.40403596}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pasted__pSphere2
+      position: {x: -2.1711793, y: 25.895819, z: 6.1532297}
+      rotation: {x: -0.71407455, y: 0.07575079, z: -0.10301583, w: 0.688293}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pasted__pSphere3
+      position: {x: 2.398842, y: 32.26558, z: 5.805485}
+      rotation: {x: -0.8119063, y: 0.09005181, z: 0.019969685, w: 0.57645476}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pasted__pSphere4
+      position: {x: 1.8814579, y: 29.802948, z: 6.171209}
+      rotation: {x: -0.8119063, y: 0.09005181, z: 0.019969685, w: 0.57645476}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pSphere1
+      position: {x: -2.9971566, y: 33.37192, z: 4.800579}
+      rotation: {x: 0.9100807, y: -0.08430474, z: -0.037427627, w: -0.40403596}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pSphere2
+      position: {x: 0.11606154, y: 42.752808, z: 4.218954}
+      rotation: {x: -0.691772, y: 0.020984856, z: 0.0034983887, w: 0.72180253}
+      scale: {x: 0.25013378, y: 0.21548447, z: 0.28500128}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pSphere3
+      position: {x: 2.546631, y: 33.580967, z: 5.1904936}
+      rotation: {x: 0.8738104, y: -0.08709465, z: -0.030375, w: -0.47743833}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pasted__pSphere4
+      position: {x: -2.805627, y: 31.070438, z: 5.422686}
+      rotation: {x: -0.8119063, y: 0.09005181, z: 0.019969685, w: 0.57645476}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pasted__pSphere1
+      position: {x: -3.0274997, y: 32.26558, z: 5.2681046}
+      rotation: {x: -0.8119063, y: 0.09005181, z: 0.019969685, w: 0.57645476}
+      scale: {x: 0.37196624, y: 0.236139, z: 0.3507109}
+      transformModified: 1
+    - name: Soldier:pasted__pCylinder1
+      position: {x: 0.09332077, y: 42.18153, z: 2.0597878}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.6106282, y: 0.021972906, z: 0.73036677}
+      transformModified: 1
+    - name: Soldier:pasted__pCylinder2
+      position: {x: 0.09332077, y: 42.1815, z: 2.0597878}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.57993823, y: 0.5319333, z: 0.69365877}
+      transformModified: 1
+    - name: Soldier:pSphere1
+      position: {x: 0.13113625, y: 41.36235, z: 3.758321}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.5319333, y: 1.4504637e-12, z: 0.5319333}
+      transformModified: 1
+    - name: Soldier:hip
+      position: {x: 6.916808e-10, y: 5.4073, z: 0.45939997}
+      rotation: {x: -0.000000052744173, y: 0.000000008211705, z: 0.3245366, w: 0.9458732}
+      scale: {x: 0.39370075, y: 0.39370078, z: 0.39370078}
+      transformModified: 1
+    - name: Soldier:Spine
+      position: {x: 0.58383185, y: 0.7395733, z: -0.2247494}
+      rotation: {x: -0.28606087, y: 0.64666003, z: 0.6228137, w: -0.33481804}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Chest
+      position: {x: -1.6068314, y: 0.00000575304, z: 0.0000000029569491}
+      rotation: {x: 0, y: 0, z: 0.9992633, w: 0.03837911}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:LeftShoulder
+      position: {x: 3.435505, y: 0.045026924, z: 1.2844138}
+      rotation: {x: 0.5166333, y: 0.48279417, z: -0.48279354, w: 0.5166336}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:LeftUpperArm
+      position: {x: -1.3069696, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.016709616, w: 0.9998604}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:LeftLowerArm
+      position: {x: -3.8700202, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0.022981782, w: 0.9997359}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:LeftHand
+      position: {x: -3.7796094, y: -0.0000024223327, z: 0.00000052988526}
+      rotation: {x: -0.06320865, y: 0.34754136, z: 0.1475073, w: 0.9238297}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left2Finger1
+      position: {x: -1.1911395, y: 0.44383675, z: -0.59819144}
+      rotation: {x: 0.10503617, y: -0.3325172, z: -0.22841857, w: 0.90896904}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left2Finger2
+      position: {x: -0.62050354, y: -0.20151265, z: 0}
+      rotation: {x: -0.014792972, y: -0.0364631, z: -0.03743108, w: 0.9985241}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left2Finger3
+      position: {x: -0.53875345, y: -0.25509828, z: 0}
+      rotation: {x: 0, y: 0.018172812, z: -0, w: 0.9998349}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left3Finger1
+      position: {x: -0.9399765, y: 0.45559475, z: -0.9116298}
+      rotation: {x: 0.07717, y: -0.3572865, z: -0.18527582, w: 0.9121755}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left3Finger2
+      position: {x: -0.72445434, y: -0.1691951, z: -0.0000001513958}
+      rotation: {x: -0.008479597, y: -0.011476952, z: -0.10750478, w: 0.9941022}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left3Finger3
+      position: {x: -0.61864924, y: -0.3507792, z: -0.0000001513958}
+      rotation: {x: 0, y: 0.039589193, z: -0, w: 0.9992161}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left1Finger1
+      position: {x: -0.65712345, y: 0, z: -0.0000006055832}
+      rotation: {x: 0.015127996, y: 0.042177644, z: 0.022307483, w: 0.9987466}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left1Finger2
+      position: {x: -0.5291247, y: 0.07174949, z: -0.04480195}
+      rotation: {x: 0.017286107, y: 0.12857588, z: -0.048154976, w: 0.99037904}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left1Finger3
+      position: {x: -0.49322268, y: 0.008524189, z: -0.21554977}
+      rotation: {x: 0, y: -0, z: -0.33100694, w: 0.9436283}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left5Finger1
+      position: {x: -0.43246147, y: 0.41315308, z: -1.2482177}
+      rotation: {x: 0.073968105, y: -0.39503798, z: -0.20551406, w: 0.8923215}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left5Finger2
+      position: {x: -0.46670237, y: -0.12027124, z: 0}
+      rotation: {x: 0.00041257576, y: 0.002139912, z: -0.02764563, w: 0.9996155}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left5Finger3
+      position: {x: -0.4860132, y: -0.1985889, z: 0.0000003027916}
+      rotation: {x: 0, y: 0.08083044, z: -0, w: 0.9967279}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left4Finger1
+      position: {x: -0.6832628, y: 0.43600777, z: -1.090334}
+      rotation: {x: 0.07795736, y: -0.361394, z: -0.1898441, w: 0.9095474}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left4Finger2
+      position: {x: -0.6952967, y: -0.16967593, z: 0}
+      rotation: {x: -0.0006081933, y: -0.0010040015, z: -0.08767884, w: 0.99614817}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Left4Finger3
+      position: {x: -0.58766884, y: -0.31317008, z: 0}
+      rotation: {x: 0, y: 0.016659725, z: -0, w: 0.99986124}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:RightShoulder
+      position: {x: 3.435477, y: 0.045027606, z: -1.2844151}
+      rotation: {x: -0.4827942, y: 0.5166333, z: 0.5166337, w: 0.48279354}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:RightUpperArm
+      position: {x: 1.3069649, y: -0.000009689331, z: -0.000000756979}
+      rotation: {x: -0.00000001518501, y: 0.000000093600846, z: -0.0354099, w: 0.99937284}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:RightLowerArm
+      position: {x: 3.6346288, y: 0.30777675, z: 0}
+      rotation: {x: 0, y: -0, z: -0.022981782, w: 0.9997359}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:RightHand
+      position: {x: 3.6173954, y: -0.0018869971, z: -0.12653865}
+      rotation: {x: -0.06320865, y: 0.34754136, z: 0.1475073, w: 0.9238297}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right1Finger1
+      position: {x: 0.6571092, y: -0.00006540299, z: -0.000012111664}
+      rotation: {x: 0.01510557, y: 0.04210238, z: 0.022641957, w: 0.9987425}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right1Finger2
+      position: {x: 0.52912223, y: -0.071751915, z: 0.04480498}
+      rotation: {x: 0.0172894, y: 0.12857413, z: -0.048182424, w: 0.99037784}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right1Finger3
+      position: {x: 0.49323297, y: -0.008492699, z: 0.215554}
+      rotation: {x: 0, y: -0, z: -0.33100694, w: 0.9436283}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right5Finger1
+      position: {x: 0.4324512, y: -0.41317973, z: 1.2482102}
+      rotation: {x: 0.073970996, y: -0.3950361, z: -0.20552005, w: 0.8923208}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right5Finger2
+      position: {x: 0.46670237, y: 0.12026882, z: 0.0000004541874}
+      rotation: {x: 0.00041307826, y: 0.0021387483, z: -0.027678072, w: 0.9996146}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right5Finger3
+      position: {x: 0.48601806, y: 0.19862522, z: -0.0000009083748}
+      rotation: {x: 0, y: 0.08083044, z: -0, w: 0.9967279}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right3Finger1
+      position: {x: 0.9399729, y: -0.45562384, z: 0.91162765}
+      rotation: {x: 0.07716538, y: -0.3572865, z: -0.18526489, w: 0.9121781}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right3Finger2
+      position: {x: 0.72444826, y: 0.16916119, z: 0.0000003027916}
+      rotation: {x: -0.008481478, y: -0.011475672, z: -0.10758369, w: 0.9940936}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right3Finger3
+      position: {x: 0.61870253, y: 0.35090032, z: -0.0000048446655}
+      rotation: {x: 0, y: 0.039589193, z: -0, w: 0.9992161}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right4Finger1
+      position: {x: 0.6832529, y: -0.4360344, z: 1.090325}
+      rotation: {x: 0.07795939, y: -0.36139393, z: -0.18984927, w: 0.90954614}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right4Finger2
+      position: {x: 0.6952967, y: 0.16966866, z: 0.0000003027916}
+      rotation: {x: -0.00060869515, y: -0.00100249, z: -0.08771623, w: 0.99614483}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right4Finger3
+      position: {x: 0.58761555, y: 0.3131834, z: 0.000002195239}
+      rotation: {x: 0, y: 0.016659725, z: -0, w: 0.99986124}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right2Finger1
+      position: {x: 1.1911455, y: -0.443798, z: 0.5981981}
+      rotation: {x: 0.10501269, y: -0.33251348, z: -0.22837058, w: 0.9089852}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right2Finger2
+      position: {x: 0.620506, y: 0.20142181, z: 0.000000069784}
+      rotation: {x: -0.014799888, y: -0.03644172, z: -0.03750847, w: 0.998522}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Right2Finger3
+      position: {x: 0.5387728, y: 0.25514188, z: -0.0000006055832}
+      rotation: {x: 0, y: 0.018172812, z: -0, w: 0.9998349}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Neck
+      position: {x: 4.0559964, y: -0.09243114, z: -0.03341317}
+      rotation: {x: 0.018857924, y: 0.9998222, z: -5.7757304e-17, w: -1.8481907e-16}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:Head
+      position: {x: -1.4801446, y: -0.0058091325, z: -0.000000009462237}
+      rotation: {x: -0.52177244, y: 0.54183334, z: -0.45705473, w: -0.47462738}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:LeftUpperLeg
+      position: {x: -1.8983138, y: -0.065220095, z: 0.41056564}
+      rotation: {x: 0, y: 0, z: 0.40921402, w: 0.91243845}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:LeftLowerLeg
+      position: {x: -5.227009, y: 0.0000001513958, z: -0.13634403}
+      rotation: {x: 0, y: -0, z: -0.022042742, w: 0.99975705}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:LeftFoot
+      position: {x: -5.907978, y: -0.044230886, z: -0.5121962}
+      rotation: {x: 0.5615842, y: 0.42967805, z: -0.36503345, w: 0.60559934}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:LeftToe
+      position: {x: -2.026188, y: -0.27263597, z: -0.0000001513958}
+      rotation: {x: -0.13189058, y: -0.6946977, z: -0.13189058, w: 0.6946977}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:RightUpperLeg
+      position: {x: 0.40406266, y: -1.8559574, z: 0.41057095}
+      rotation: {x: -0.46900222, y: 0.883197, z: -5.4080218e-17, w: 2.8718103e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:RightLowerLeg
+      position: {x: 5.2270083, y: -0.0000049960613, z: 0.1363469}
+      rotation: {x: 0, y: -0, z: -0.022042742, w: 0.99975705}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:RightFoot
+      position: {x: 5.907973, y: 0.04423997, z: 0.5121987}
+      rotation: {x: 0.5615842, y: 0.42967805, z: -0.36503345, w: 0.60559934}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Soldier:RightToe
+      position: {x: 2.0261903, y: 0.27264142, z: 0}
+      rotation: {x: -0.13189058, y: -0.6946977, z: -0.13189058, w: 0.6946977}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -3,6 +3,7 @@ using System.Collections;
 
 public class RandomSound : MonoBehaviour {
 
+    /*
 	public int minRandom = 5;
 
 	public int maxRandom = 13;
@@ -34,4 +35,5 @@ public class RandomSound : MonoBehaviour {
 			GetComponent<AudioSource>().volume = 1.0f;}
 
 	}
+    */
 }

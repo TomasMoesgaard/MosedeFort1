@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class AnimationControl : MonoBehaviour {
-
+/*
 	public GameObject previous;
 
 	private Control control;
@@ -24,4 +24,5 @@ public class AnimationControl : MonoBehaviour {
 		}
 
 	}
+    */
 }

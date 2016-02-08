@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class ScreenClick : MonoBehaviour {
-	
+	/*
 	public bool Playing = false;
 
 	private Control control;
@@ -81,7 +81,7 @@ public class ScreenClick : MonoBehaviour {
 				Playing = control.isplaying;
 			}
 		}
-
+        */
 	}
 
 

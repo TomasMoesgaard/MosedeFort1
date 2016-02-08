@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 public class Control : MonoBehaviour {
-
+/*
 	public bool HasPlayed = false;
 	public bool LookedAt = false;
 	public bool AudioDone = false;
@@ -155,5 +155,6 @@ public class Control : MonoBehaviour {
 		}
 
 	}
+    */
 	
 }

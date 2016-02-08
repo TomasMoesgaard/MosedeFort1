@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 
 public class ImageScript : MonoBehaviour {
-	
+	/*
 	private bool startImage = false;
 	private Color transparent;
 	private Color nontransparent;
@@ -79,4 +79,5 @@ public class ImageScript : MonoBehaviour {
 			time = 1f;}
 
 	}
+    */
 }

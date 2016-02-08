@@ -3,6 +3,7 @@ using System.Collections;
 
 public class TextureChange : MonoBehaviour {
 
+    /*
 	public Texture tex1;
 	public Texture tex2;
 
@@ -26,4 +27,5 @@ public class TextureChange : MonoBehaviour {
 			GetComponent<Renderer>().material.mainTexture = tex1;
 
 	}
+    */
 }

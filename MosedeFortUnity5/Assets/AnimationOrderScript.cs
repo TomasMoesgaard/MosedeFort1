@@ -3,7 +3,7 @@ using System.Collections;
 
 public class AnimationOrderScript : MonoBehaviour {
 
-
+/*
 	public GameObject go;
 	
 	private Control control;
@@ -54,4 +54,5 @@ public class AnimationOrderScript : MonoBehaviour {
 
 	
 	}
+    */
 }

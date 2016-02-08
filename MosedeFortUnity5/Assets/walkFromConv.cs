@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class walkFromConv : MonoBehaviour {
-
+    /*
 	public bool hasPlayed = false;
 
 	public GameObject go;
@@ -30,4 +30,5 @@ public class walkFromConv : MonoBehaviour {
 			hasPlayed = true;
 		}
 	}
+    */
 }

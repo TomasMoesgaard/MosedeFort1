@@ -3,6 +3,8 @@ using System.Collections;
 
 public class TintChange : MonoBehaviour {
 
+
+    /*
 	private GameObject ec;
 
 	float duration  = 1.0f;
@@ -38,4 +40,5 @@ public class TintChange : MonoBehaviour {
 				Destroy(gameObject);
 		}
 	}
+    */
 }

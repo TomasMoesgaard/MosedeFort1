@@ -9,8 +9,6 @@ public class MotionBehavior : MonoBehaviour {
 
 	public bool Conversation2 = false;
 
-	public bool LoadCannon = false;
-
 	public bool Looking = false;
 
 	public bool Looking2 = false;

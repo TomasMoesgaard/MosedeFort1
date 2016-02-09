@@ -56,5 +56,11 @@ public class SoldierController : MonoBehaviour {
 	
 	}
 
+    public void StartPath()
+    {
+
+
+
+    }
 
 }

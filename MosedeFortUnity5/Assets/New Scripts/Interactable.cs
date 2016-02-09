@@ -3,9 +3,9 @@ using System.Collections;
 
 public class Interactable : MonoBehaviour {
 
-    Renderer renderer;
+    private Renderer renderer;
 
-    Renderer[] renderers;
+    private Renderer[] renderers;
 
     private Shader shader1;
     private Shader shader2;
@@ -16,7 +16,9 @@ public class Interactable : MonoBehaviour {
 
     public GameObject[] Soldiers;
 
-    public Animator Animator;
+    //public Animator Animator;
+
+    public bool Zeppelin = false;
 
     // Use this for initialization
     void Start () {
@@ -63,4 +65,32 @@ public class Interactable : MonoBehaviour {
         }
         shaderUnlit = false;
     }
+
+    public void ActivateEvent()
+    {
+        Audio.Play();
+
+        StartCoroutine(EventEnd(Audio.clip.length));
+
+        if (Zeppelin)
+        {
+            GetComponent<Animator>().SetTrigger("Flee");
+        }
+
+        foreach(GameObject soldier in Soldiers)
+        {
+            soldier.GetComponent<SoldierController>().StartPath();
+        }
+        
+    }
+
+    IEnumerator EventEnd (float length)
+    {
+        yield return new WaitForSeconds(length);
+
+        LookHandler.EVENT_ONGOING = false;
+
+        Destroy(this);
+    }
+
 }

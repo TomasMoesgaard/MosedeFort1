@@ -11,6 +11,8 @@ public class LookHandler : MonoBehaviour {
 
     private float rayTimer = 0f;
 
+    public GameObject LoadingBar;
+
 	// Use this for initialization
 	void Start () {
 
@@ -21,6 +23,9 @@ public class LookHandler : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+
+        LoadingBar.GetComponent<Renderer>().material.SetFloat("_Cutoff", Mathf.InverseLerp(1.98f, 0f, lookTimer) + 0.02f);
+
 
         if (EVENT_ONGOING)
         {

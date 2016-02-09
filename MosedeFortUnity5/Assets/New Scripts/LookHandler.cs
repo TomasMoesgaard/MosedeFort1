@@ -5,9 +5,13 @@ public class LookHandler : MonoBehaviour {
 
     private GameObject target;
 
+    public static bool EVENT_ONGOING = false;
+
     private float lookTimer = 0f;
 
     private float rayTimer = 0f;
+
+    public GameObject LoadingBar;
 
 	// Use this for initialization
 	void Start () {
@@ -20,31 +24,59 @@ public class LookHandler : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        if (Input.GetKeyDown(KeyCode.Escape))
+        LoadingBar.GetComponent<Renderer>().material.SetFloat("_Cutoff", Mathf.InverseLerp(1.98f, 0f, lookTimer) + 0.02f);
+
+
+        if (EVENT_ONGOING)
         {
-            Application.Quit();
-            
-        }
-
-        if(Time.time > rayTimer)
-        {
-            rayTimer = Time.time + 0.02f;
-
-           // Debug.Log("Cast!");
-
-            RaycastHit hit;
-
-            if(Physics.Raycast(transform.position, transform.forward, out hit))
+            if (target && target.GetComponent<Interactable>())
             {
-                if (hit.collider.GetComponent<Interactable>())
-                {
+                target.GetComponent<Interactable>().ShaderStandard();
+            }
+            target = null;
 
-                    if (target && hit.collider.name != target.name)
+            lookTimer = 0f;
+        }
+        else
+        {
+
+            if (Input.GetKeyDown(KeyCode.Escape))
+            {
+                Application.Quit();
+
+            }
+
+            if (Time.time > rayTimer)
+            {
+                rayTimer = Time.time + 0.02f;
+
+                // Debug.Log("Cast!");
+
+                RaycastHit hit;
+
+                if (Physics.Raycast(transform.position, transform.forward, out hit))
+                {
+                    if (hit.collider.GetComponent<Interactable>())
                     {
-                        target.GetComponent<Interactable>().ShaderStandard();
+
+                        if (target && hit.collider.name != target.name)
+                        {
+                            target.GetComponent<Interactable>().ShaderStandard();
+                        }
+                        target = hit.collider.gameObject;
+                        //  Debug.Log(target.name);
                     }
-                    target = hit.collider.gameObject;
-                  //  Debug.Log(target.name);
+                    else
+                    {
+                        if (target && target.GetComponent<Interactable>())
+                        {
+                            target.GetComponent<Interactable>().ShaderStandard();
+                        }
+                        target = null;
+
+                        lookTimer = 0f;
+                    }
+
                 }
                 else
                 {
@@ -58,26 +90,26 @@ public class LookHandler : MonoBehaviour {
                 }
 
             }
-            else
-            {
-                if (target && target.GetComponent<Interactable>())
-                {
-                    target.GetComponent<Interactable>().ShaderStandard();
-                }
-                target = null;
 
-                lookTimer = 0f;
+            if (target)
+            {
+                target.GetComponent<Interactable>().ShaderUnlit();
+
+                lookTimer += Time.deltaTime;
+
+                Debug.Log(lookTimer);
             }
 
-        }
+            if (lookTimer > 2f)
+            {
 
-        if (target)
-        {
-            target.GetComponent<Interactable>().ShaderUnlit();
+                target.GetComponent<Interactable>().ActivateEvent();
 
-            lookTimer += Time.deltaTime;
+                LookHandler.EVENT_ONGOING = true;
 
-            Debug.Log(lookTimer);
+            }
         }
 	}
+
+
 }

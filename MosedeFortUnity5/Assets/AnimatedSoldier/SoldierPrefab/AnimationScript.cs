@@ -76,7 +76,7 @@ public class AnimationScript : MonoBehaviour {
 
 				avatar.SetBool("Conversation1", waypoints[nextWayPoint].GetComponent<MotionBehavior>().Conversation1);
 				avatar.SetBool("Conversation2", waypoints[nextWayPoint].GetComponent<MotionBehavior>().Conversation2);
-				avatar.SetBool("Load Cannon", waypoints[nextWayPoint].GetComponent<MotionBehavior>().LoadCannon);
+				//avatar.SetBool("Load Cannon", waypoints[nextWayPoint].GetComponent<MotionBehavior>().LoadCannon);
 				avatar.SetBool("Looking", waypoints[nextWayPoint].GetComponent<MotionBehavior>().Looking);
 				avatar.SetBool("Looking2", waypoints[nextWayPoint].GetComponent<MotionBehavior>().Looking2);
 

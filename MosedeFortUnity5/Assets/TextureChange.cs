@@ -27,7 +27,7 @@ public class TextureChange : MonoBehaviour {
         }
         else
         {
-            GetComponent<Renderer>().material.SetTexture(0, tex1);
+            GetComponent<Renderer>().material.mainTexture = tex1;
         }
     }
 

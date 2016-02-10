@@ -23,6 +23,8 @@ public class MotionBehavior : MonoBehaviour {
 
     public bool WaitForEventEnd = false;
 
+    public GameObject LookTarget;
+
 	// Use this for initialization
 	void Start () {
 	

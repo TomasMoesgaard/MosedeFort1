@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class LookHandler : MonoBehaviour {
 
@@ -26,6 +27,17 @@ public class LookHandler : MonoBehaviour {
 
         LoadingBar.GetComponent<Renderer>().material.SetFloat("_Cutoff", Mathf.InverseLerp(1.98f, 0f, lookTimer) + 0.02f);
 
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+
+        }
+
+        if (Input.GetKeyDown(KeyCode.Home))
+        {
+            SceneManager.LoadScene(0, LoadSceneMode.Single);
+            EVENT_ONGOING = false;
+        }
 
         if (EVENT_ONGOING)
         {
@@ -40,11 +52,7 @@ public class LookHandler : MonoBehaviour {
         else
         {
 
-            if (Input.GetKeyDown(KeyCode.Escape))
-            {
-                Application.Quit();
 
-            }
 
             if (Time.time > rayTimer)
             {

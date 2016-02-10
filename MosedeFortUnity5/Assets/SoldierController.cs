@@ -17,13 +17,18 @@ public class SoldierController : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
+        
+
         anim = GetComponent<Animator>();
 
         nAgent = GetComponent<NavMeshAgent>();
 
+
+        nAgent.updatePosition = false;
+
         if (Patrol)
         {
-            nAgent.SetDestination(path[0].transform.position);
+            StartCoroutine(GoToWaypoint());
         }
 
 
@@ -32,35 +37,88 @@ public class SoldierController : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        if(nAgent.remainingDistance > 2f)
-        {
-            anim.SetFloat("Speed", 1f);
-        }
-        else
-        {
-            anim.SetFloat("Speed", 0f);
-        }
 
-      
+       // Debug.Log(nAgent.velocity);
 
-        if(Patrol && nAgent.remainingDistance < 2f)
-        {
-            currentWaypoint++;
-            if(currentWaypoint == path.Length)
-            {
-                currentWaypoint = 0;
-            }
+       // anim.SetFloat("Direction", nAgent.velocity)
 
-            nAgent.SetDestination(path[currentWaypoint].transform.position);
-        }
-	
 	}
 
     public void StartPath()
     {
 
-
-
+        StartCoroutine(GoToWaypoint());
+    
     }
+
+    IEnumerator GoToWaypoint()
+    {
+
+        if (path[currentWaypoint].GetComponent<MotionBehavior>().Run == true)
+        {
+            anim.SetFloat("Speed", 2f);
+            nAgent.speed = 23f;
+        }
+        else
+        {
+            anim.SetFloat("Speed", 1f);
+            nAgent.speed = 8f;
+        }
+
+        nAgent.SetDestination(path[currentWaypoint].transform.position);
+
+        yield return new WaitWhile(() => nAgent.pathPending);
+
+        anim.SetBool("Conversation1", path[currentWaypoint].GetComponent<MotionBehavior>().Conversation1);
+        anim.SetBool("Conversation2", path[currentWaypoint].GetComponent<MotionBehavior>().Conversation2);
+        anim.SetBool("Looking", path[currentWaypoint].GetComponent<MotionBehavior>().Looking);
+        anim.SetBool("Looking2", path[currentWaypoint].GetComponent<MotionBehavior>().Looking2);
+
+
+
+            yield return new WaitUntil(() => nAgent.remainingDistance < 0.5f);
+
+        
+        
+            anim.SetFloat("Speed", 0f);
+
+        if(!Patrol)
+        Debug.Log("Speed set to 0");
+
+        // nAgent.Stop();
+
+        if (path[currentWaypoint].GetComponent<MotionBehavior>().WaitForEventEnd)
+        {
+            yield return new WaitWhile(() => LookHandler.EVENT_ONGOING);
+        }
+
+            yield return new WaitForSeconds(path[currentWaypoint].GetComponent<MotionBehavior>().WaitTime);
+
+            currentWaypoint += 1;
+
+        //Debug.Log("Waypoint incremented to: " + currentWaypoint);
+
+            if (Patrol && path.Length == currentWaypoint)
+            {
+           // Debug.Log("Here1");
+                currentWaypoint = 0;
+                StartCoroutine(GoToWaypoint());
+            }
+            else if (currentWaypoint < path.Length)
+            {
+          //  Debug.Log("Here2");
+            StartCoroutine(GoToWaypoint());
+            }
+
+        
+    }
+
+    void OnAnimatorMove()
+    {
+        // Update position to agent position
+        transform.position = nAgent.nextPosition;
+    }
+
+
 
 }

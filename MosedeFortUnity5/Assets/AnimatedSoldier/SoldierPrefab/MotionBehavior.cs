@@ -21,7 +21,7 @@ public class MotionBehavior : MonoBehaviour {
 
 	public bool ReturnToStartPosition = false;
 
-
+    public bool WaitForEventEnd = false;
 
 	// Use this for initialization
 	void Start () {

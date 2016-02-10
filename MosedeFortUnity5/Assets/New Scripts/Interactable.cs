@@ -20,6 +20,8 @@ public class Interactable : MonoBehaviour {
 
     public bool Zeppelin = false;
 
+   // public bool SoldierEvent = false;
+
     // Use this for initialization
     void Start () {
 
@@ -89,6 +91,7 @@ public class Interactable : MonoBehaviour {
         yield return new WaitForSeconds(length);
 
         LookHandler.EVENT_ONGOING = false;
+
 
         Destroy(this);
     }

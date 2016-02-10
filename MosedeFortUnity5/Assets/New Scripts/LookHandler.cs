@@ -16,8 +16,8 @@ public class LookHandler : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-        Cursor.visible = false;
-        Cursor.lockState = CursorLockMode.Confined;
+      //  Cursor.visible = false;
+      //  Cursor.lockState = CursorLockMode.Confined;
 
     }
 	
@@ -97,7 +97,7 @@ public class LookHandler : MonoBehaviour {
 
                 lookTimer += Time.deltaTime;
 
-                Debug.Log(lookTimer);
+               // Debug.Log(lookTimer);
             }
 
             if (lookTimer > 2f)

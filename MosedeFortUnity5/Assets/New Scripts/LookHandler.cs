@@ -103,9 +103,9 @@ public class LookHandler : MonoBehaviour {
             if (lookTimer > 2f)
             {
 
-                target.GetComponent<Interactable>().ActivateEvent();
-
                 LookHandler.EVENT_ONGOING = true;
+
+                target.GetComponent<Interactable>().ActivateEvent();
 
             }
         }

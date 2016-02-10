@@ -70,6 +70,8 @@ public class Interactable : MonoBehaviour {
 
     public void ActivateEvent()
     {
+        GameObject.FindGameObjectWithTag("Crosshair").GetComponent<TextureChange>().ChangeTexture();
+
         Audio.Play();
 
         StartCoroutine(EventEnd(Audio.clip.length));
@@ -92,6 +94,7 @@ public class Interactable : MonoBehaviour {
 
         LookHandler.EVENT_ONGOING = false;
 
+        GameObject.FindGameObjectWithTag("Crosshair").GetComponent<TextureChange>().ChangeTexture();
 
         Destroy(this);
     }
